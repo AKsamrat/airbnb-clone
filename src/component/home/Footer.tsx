@@ -1,121 +1,152 @@
-import {
-  Facebook,
-  Instagram,
-  Linkedin,
-  Mail,
-  MapPin,
-  Phone,
-  Twitter,
-} from "lucide-react";
-import Link from "next/link";
+"use client";
 
-export default function Footer() {
+import { Facebook, Globe, Instagram, Twitter } from "lucide-react";
+
+const footerSections = [
+  // ... (data from previous step remains the same)
+  {
+    title: "Support",
+    links: [
+      { text: "Help Center", href: "#" },
+      { text: "Get help with a safety issue", href: "#" },
+      { text: "AirCover", href: "#" },
+      { text: "Anti-discrimination", href: "#" },
+      { text: "Disability support", href: "#" },
+      { text: "Cancellation options", href: "#" },
+      { text: "Report neighborhood concern", href: "#" },
+    ],
+  },
+  {
+    title: "Hosting",
+    links: [
+      { text: "Airbnb your home", href: "#" },
+      { text: "Airbnb your experience", href: "#" },
+      { text: "Airbnb your service", href: "#" },
+      { text: "AirCover for Hosts", href: "#" },
+      { text: "Hosting resources", href: "#" },
+      { text: "Community forum", href: "#" },
+      { text: "Hosting responsibly", href: "#" },
+      { text: "Airbnb-friendly apartments", href: "#" },
+      { text: "Join a free Hosting class", href: "#" },
+      { text: "Find a co-host", href: "#" },
+    ],
+  },
+  {
+    title: "Airbnb",
+    links: [
+      { text: "2025 Summer Release", href: "#" },
+      { text: "Newsroom", href: "#" },
+      { text: "Careers", href: "#" },
+      { text: "Investors", href: "#" },
+      { text: "Gift cards", href: "#" },
+      { text: "Airbnb.org emergency stays", href: "#" },
+    ],
+  },
+];
+
+const PrivacyChoicesIcon = () => (
+  <svg
+    xmlns="http://www.w3.org/2000/svg"
+    viewBox="0 0 30 14"
+    width="30"
+    height="14"
+    fill="none"
+    role="img"
+    aria-hidden="true"
+  >
+    <rect width="30" height="14" rx="7" fill="#06F"></rect>{" "}
+    <path
+      d="M12.75 3.25a.75.75 0 00-1.5 0v7.5a.75.75 0 001.5 0v-7.5z"
+      fill="#fff"
+    ></path>{" "}
+    <path
+      d="M5.151 4.349a.75.75 0 10-1.06 1.06l4.242 4.243a.75.75 0 101.06-1.06L5.15 4.35z"
+      fill="#fff"
+    ></path>{" "}
+    <path
+      d="M25.914 4.349a.75.75 0 00-1.06 1.06l4.242 4.243a.75.75 0 101.06-1.06l-4.242-4.243z"
+      fill="#fff"
+      transform="translate(-11.5 0)"
+    ></path>
+  </svg>
+);
+
+const Footer = () => {
   return (
-    <footer className=" ">
-      <div className="max-w-7xl mx-auto px-6 py-10 grid grid-cols-1 md:grid-cols-4 gap-8">
-        {/* Logo + Name */}
-        <div>
-          <Link href="/" className="flex items-center space-x-3">
-            {/* <Image
-              src="/logo3.png"
-              alt="CELGAP"
-              width={300}
-              height={100}
-              className="rounded p-1"
-            /> */}
-          </Link>
-          <p className="mt-3 text-sm text-gray-800">
-            Advancing research, education, and policy in law and governance.
-          </p>
-        </div>
+    <footer className="bg-gray-50 text-sm text-gray-800 ">
+      <div className="max-w-8xl mx-auto pt-12 pb-8 px-8">
+        <section className="grid grid-cols-1 md:grid-cols-3 gap-8">
+          {footerSections.map((section) => (
+            <div key={section.title}>
+              <h3 className="font-semibold">{section.title}</h3>
+              <ul className="mt-4 space-y-3">
+                {section.links.map((link) => (
+                  <li key={link.text}>
+                    <a
+                      href={link.href}
+                      className="text-gray-800 hover:underline"
+                    >
+                      {link.text}
+                    </a>
+                  </li>
+                ))}
+              </ul>
+            </div>
+          ))}
+        </section>
+      </div>
+      {/* --- Main Links Section (No changes here) --- */}
 
-        {/* Quick Links */}
-        <div>
-          <h4 className="font-semibold text-lg mb-3">Quick Links</h4>
-          <ul className="space-y-2 text-sm">
-            <li>
-              <Link href="/about/mission" className="hover:text-yellow-400">
-                About Us
-              </Link>
-            </li>
-            <li>
-              <Link href="/research" className="hover:text-yellow-400">
-                Research
-              </Link>
-            </li>
-            <li>
-              <Link href="/programs/courses" className="hover:text-yellow-400">
-                Programs
-              </Link>
-            </li>
-            <li>
-              <Link href="/resources" className="hover:text-yellow-400">
-                Resources
-              </Link>
-            </li>
-            <li>
-              <Link href="/events" className="hover:text-yellow-400">
-                Events
-              </Link>
-            </li>
-          </ul>
-        </div>
-
-        {/* Contact Info */}
-        <div className="space-y-2">
-          <h4 className="font-semibold text-lg mb-3">Contact</h4>
-          <p className="flex items-center gap-2 text-sm text-gray-800">
-            <MapPin size={16} /> University Campus, Dhaka, Bangladesh
-          </p>
-          <p className="flex items-center gap-2 text-sm text-gray-800">
-            <Mail size={16} /> info@celgap.org
-          </p>
-          <p className="flex items-center gap-2 text-sm text-gray-800">
-            <Phone size={16} /> +880 1234 567890
-          </p>
-        </div>
-
-        {/* Social Media */}
-        <div>
-          <h4 className="font-semibold text-lg mb-3 ml-3">Follow Us</h4>
-          <div className="flex space-x-3">
-            <Link
+      {/* --- Bottom Bar (No changes here) --- */}
+      <div className="border-t border-gray-300">
+        <div className="max-w-screen-xl mx-auto py-6 px-8 flex flex-col md:flex-row justify-between items-center text-sm">
+          <div className="flex flex-wrap items-center gap-x-4 gap-y-2">
+            <p>&copy; 2025 Airbnb, Inc.</p>{" "}
+            <div className="hidden md:block">&middot;</div>{" "}
+            <a href="#" className="hover:underline">
+              Terms
+            </a>{" "}
+            <div className="hidden md:block">&middot;</div>{" "}
+            <a href="#" className="hover:underline">
+              Sitemap
+            </a>{" "}
+            <div className="hidden md:block">&middot;</div>{" "}
+            <a href="#" className="hover:underline">
+              Privacy
+            </a>{" "}
+            <div className="hidden md:block">&middot;</div>
+            <a href="#" className="flex items-center gap-2 hover:underline">
+              Your Privacy Choices
+              <PrivacyChoicesIcon />
+            </a>
+          </div>
+          <div className="flex items-center gap-4 mt-4 md:mt-0">
+            <a
               href="#"
-              aria-label="Facebook"
-              className="w-10 h-10 flex items-center justify-center rounded-full bg-white/10 hover:bg-[#0347A7] hover:text-white transition"
+              className="flex items-center gap-2 font-semibold hover:underline"
             >
-              <Facebook size={18} />
-            </Link>
-            <Link
+              <Globe size={18} /> English (US)
+            </a>
+            <a
               href="#"
-              aria-label="Twitter"
-              className="w-10 h-10 flex items-center justify-center rounded-full bg-white/10 hover:bg-[#0347A7] hover:text-white transition"
+              className="flex items-center gap-1 font-semibold hover:underline"
             >
+              $ <span className="underline">USD</span>
+            </a>
+            <a href="#" className="hover:opacity-80">
               <Twitter size={18} />
-            </Link>
-            <Link
-              href="#"
-              aria-label="LinkedIn"
-              className="w-10 h-10 flex items-center justify-center rounded-full bg-white/10 hover:bg-[#0347A7] hover:text-white transition"
-            >
-              <Linkedin size={18} />
-            </Link>
-            <Link
-              href="#"
-              aria-label="Instagram"
-              className="w-10 h-10 flex items-center justify-center rounded-full bg-white/10 hover:bg-[#0347A7] hover:text-white transition"
-            >
+            </a>
+            <a href="#" className="hover:opacity-80">
+              <Facebook size={18} />
+            </a>
+            <a href="#" className="hover:opacity-80">
               <Instagram size={18} />
-            </Link>
+            </a>
           </div>
         </div>
       </div>
-
-      {/* Bottom bar */}
-      <div className="bg-[#011a43] text-center py-3 text-sm text-gray-400">
-        © {new Date().getFullYear()} Centre for Law, Governance & Policy. All
-        rights reserved.
-      </div>
     </footer>
   );
-}
+};
+
+export default Footer;

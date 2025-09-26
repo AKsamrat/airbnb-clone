@@ -17,7 +17,7 @@ export const ResponsiveSearchBar = ({
     </div>
     {active && children && (
       <div
-        className={`absolute top-full mt-2 bg-white rounded-3xl rounder-l-full shadow-xl border border-gray-200 p-6 px-6 z-50 ${
+        className={`absolute top-full mt-2 bg-white rounded-3xl rounder-l-full shadow-xl border border-gray-200 p-6 px-6 z-70 ${
           section === "where"
             ? "left-0 w-64"
             : section === "checkin" || section === "checkout"

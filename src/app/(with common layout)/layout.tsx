@@ -1,4 +1,5 @@
 import Footer from "@/component/home/Footer";
+import Inspiration from "@/component/home/Inspiration";
 import AirbnbNavbar from "@/component/home/navbar";
 
 const CommonLayout = ({ children }: { children: React.ReactNode }) => {
@@ -7,6 +8,7 @@ const CommonLayout = ({ children }: { children: React.ReactNode }) => {
       <AirbnbNavbar></AirbnbNavbar>
       {/* <Header></Header> */}
       <main className="min-h-screen bg-[#FFFFFF]">{children}</main>
+      <Inspiration></Inspiration>
       <Footer></Footer>
     </>
   );

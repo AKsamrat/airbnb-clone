@@ -7,6 +7,7 @@ import {
   Plus,
   Search,
 } from "lucide-react";
+import { usePathname } from "next/navigation";
 import { useEffect, useRef, useState } from "react";
 import { CalendarMonth } from "./navComponent/calenderMonth";
 import { ResponsiveSearchBar } from "./navComponent/ResponsiveSearchBar";
@@ -41,6 +42,7 @@ const AirbnbNavbar = () => {
   const languageRef = useRef<HTMLDivElement>(null);
   const profileRef = useRef<HTMLDivElement>(null);
   const searchRef = useRef<HTMLDivElement>(null);
+  const pathname = usePathname();
 
   useEffect(() => {
     const handleScroll = () => {
@@ -94,21 +96,6 @@ const AirbnbNavbar = () => {
     return date.toLocaleDateString("en-US", { month: "short", day: "numeric" });
   };
 
-  const generateCalendar = (month: number, year: number) => {
-    const firstDay = new Date(year, month, 1);
-    const lastDay = new Date(year, month + 1, 0);
-    const startDate = new Date(firstDay);
-    startDate.setDate(startDate.getDate() - firstDay.getDay());
-
-    const days = [];
-    for (let i = 0; i < 42; i++) {
-      const date = new Date(startDate);
-      date.setDate(startDate.getDate() + i);
-      days.push(date);
-    }
-    return days;
-  };
-
   const totalGuests = searchData.guests.adults + searchData.guests.children;
   const currentDate = new Date();
   const nextMonth = new Date(
@@ -143,25 +130,66 @@ const AirbnbNavbar = () => {
 
               {/* Navigation Links - Hidden when scrolled */}
               <div
-                className={` flex space-x-8 transition-opacity duration-300 mt-4 ${
+                className={`flex space-x-8 transition-opacity duration-300 mt-4 ml-10 cursor-pointer ${
                   scrolled ? "opacity-0 pointer-events-none" : "opacity-100"
                 }`}
               >
-                <button className="flex items-end space-x-2 text-gray-700 hover:text-gray-900 font-medium  border-gray-900 pb-4">
-                  <img src="./house.png" className="size-10"></img>
-                  <span>Homes</span>
+                {/* Homes */}
+                <button
+                  className={`group flex items-end space-x-2 font-medium border-b-2 pb-4 transition-all duration-300 ${
+                    pathname === "/home"
+                      ? "text-blue-600 border-blue-600"
+                      : "text-gray-700 border-transparent hover:text-gray-900"
+                  }`}
+                >
+                  <img
+                    src="./house.png"
+                    className="size-10 transition-transform duration-300 group-hover:scale-110"
+                    alt="Homes"
+                  />
+                  <span className="transition-colors duration-300 group-hover:text-gray-900">
+                    Homes
+                  </span>
                 </button>
-                <button className="flex items-end space-x-2 text-gray-700 hover:text-gray-900 font-medium relative pb-4">
-                  <img src="./light-bulb.png" className="size-8"></img>
-                  <span>Experiences</span>
-                  <span className="absolute -top-1 right-[78px] bg-gradient-to-t from-[#6f86b3] via-[#263753] to-[#5976a7] text-white text-[10px] font bold px-1.5 py-0.5 rounded-r-full rounded-t-full">
+
+                {/* Experiences */}
+                <button
+                  className={`group flex items-end space-x-2 font-medium relative border-b-2 pb-4 transition-all duration-300 ${
+                    pathname === "/experiences"
+                      ? "text-blue-600 border-blue-600"
+                      : "text-gray-700 border-transparent hover:text-gray-900"
+                  }`}
+                >
+                  <img
+                    src="./light-bulb.png"
+                    className="size-8 transition-transform duration-300 group-hover:scale-110"
+                    alt="Experiences"
+                  />
+                  <span className="transition-colors duration-300 group-hover:text-gray-900">
+                    Experiences
+                  </span>
+                  <span className="absolute -top-1 right-[78px] bg-gradient-to-t from-[#6f86b3] via-[#263753] to-[#5976a7] text-white text-[10px] px-1.5 py-0.5 rounded-r-full rounded-t-full transition-transform duration-300 group-hover:scale-110">
                     NEW
                   </span>
                 </button>
-                <button className="flex items-end space-x-2 text-gray-700 hover:text-gray-900 font-medium relative pb-4">
-                  <img src="./desk-bell.png" className="size-8"></img>
-                  <span>Services</span>
-                  <span className="absolute -top-1 right-12 bg-gradient-to-t from-[#6f86b3] via-[#263753] to-[#5976a7] text-white text-[10px] px-1.5 py-0.5 rounded-r-full rounded-t-full">
+
+                {/* Services */}
+                <button
+                  className={`group flex items-end space-x-2 font-medium relative border-b-2 pb-4 transition-all duration-300 ${
+                    pathname === "/services"
+                      ? "text-blue-600 border-blue-600"
+                      : "text-gray-700 border-transparent hover:text-gray-900"
+                  }`}
+                >
+                  <img
+                    src="./desk-bell.png"
+                    className="size-8 transition-transform duration-300 group-hover:scale-110"
+                    alt="Services"
+                  />
+                  <span className="transition-colors duration-300 group-hover:text-gray-900">
+                    Services
+                  </span>
+                  <span className="absolute -top-1 right-12 bg-gradient-to-t from-[#6f86b3] via-[#263753] to-[#5976a7] text-white text-[10px] px-1.5 py-0.5 rounded-r-full rounded-t-full transition-transform duration-300 group-hover:scale-110">
                     NEW
                   </span>
                 </button>
@@ -559,7 +587,7 @@ const AirbnbNavbar = () => {
       <div className="  lg:hidden max-w-7xl mx-auto px-4  mt-8">
         <div
           className="fixed top-2 left-1/2 transform -translate-x-1/2 
-          z-50 flex items-center justify-center shadow-xl border rounded-full bg-white px-5 w-80"
+          z-40 flex items-center justify-center shadow-xl border rounded-full bg-white px-5 w-80"
         >
           <Search className="size-4 text-gray-500"></Search>
           <ResponsiveSearchBar
@@ -615,13 +643,19 @@ const AirbnbNavbar = () => {
       {/* Navigation Links - for responsive view */}
 
       <div
-        className={`fixed top-12 left-0 right-0 z-50 lg:hidden  shadow-md transition-all duration-300 ${
+        className={`fixed top-0 left-0 right-0 lg:hidden z-30  shadow-md transition-all duration-300 mt-12 ${
           scrolled ? "py-2" : "py-4"
         }`}
       >
         <div className="flex justify-center lg:hidden space-x-6 mx-auto px-4">
           {/* Homes */}
-          <button className="flex items-center space-x-2 text-gray-700 hover:text-gray-900 font-medium relative">
+          <button
+            className={`flex items-center space-x-2 font-medium relative pb-2 ${
+              pathname === "/homes"
+                ? "text-black border-b-2 border-black"
+                : "text-gray-700 hover:text-gray-900"
+            }`}
+          >
             {!scrolled && (
               <img src="./house.png" className="size-6" alt="Homes" />
             )}
@@ -629,7 +663,13 @@ const AirbnbNavbar = () => {
           </button>
 
           {/* Experiences */}
-          <button className="flex items-center space-x-2 text-gray-700 hover:text-gray-900 font-medium relative">
+          <button
+            className={`flex items-center space-x-2 font-medium relative pb-2 ${
+              pathname === "/experiences"
+                ? "text-black border-b-2 border-black"
+                : "text-gray-700 hover:text-gray-900"
+            }`}
+          >
             {!scrolled && (
               <img
                 src="./light-bulb.png"
@@ -639,20 +679,26 @@ const AirbnbNavbar = () => {
             )}
             <span>Experiences</span>
             {!scrolled && (
-              <span className="absolute -top-3 left-6  bg-gradient-to-t from-[#6f86b3] via-[#263753] to-[#5976a7] text-white text-[8px] font-bold px-1.5 py-0.5 rounded-r-full rounded-t-full">
+              <span className="absolute -top-3 left-6 bg-gradient-to-t from-[#6f86b3] via-[#263753] to-[#5976a7] text-white text-[8px] font-bold px-1.5 py-0.5 rounded-r-full rounded-t-full">
                 NEW
               </span>
             )}
           </button>
 
           {/* Services */}
-          <button className="flex items-center space-x-2 text-gray-700 hover:text-gray-900 font-medium relative">
+          <button
+            className={`flex items-center space-x-2 font-medium relative pb-2 ${
+              pathname === "/services"
+                ? "text-black border-b-2 border-black"
+                : "text-gray-700 hover:text-gray-900"
+            }`}
+          >
             {!scrolled && (
               <img src="./desk-bell.png" className="size-6" alt="Services" />
             )}
             <span>Services</span>
             {!scrolled && (
-              <span className="absolute -top-3 left-6  bg-gradient-to-t from-[#6f86b3] via-[#263753] to-[#5976a7] text-white text-[8px] font-bold px-1.5 py-0.5 rounded-r-full rounded-t-full">
+              <span className="absolute -top-3 left-6 bg-gradient-to-t from-[#6f86b3] via-[#263753] to-[#5976a7] text-white text-[8px] font-bold px-1.5 py-0.5 rounded-r-full rounded-t-full">
                 NEW
               </span>
             )}
