@@ -13,7 +13,7 @@ const merriweather = Merriweather({
 });
 const poppins = Poppins({
   subsets: ["latin"],
-  weight: ["300", "700"],
+  weight: ["300", "500", "600", "700", "800"],
 });
 
 export const metadata: Metadata = {

@@ -1,7 +1,13 @@
+import AvailableNextMonth from "@/component/home/AvailableNextMonth";
+import FeaturedHome from "@/component/home/FeaturedHome";
+import PopularNearby from "@/component/home/PopularHome";
+
 const page = () => {
   return (
     <div>
-      <p>home page</p>
+      <PopularNearby></PopularNearby>
+      <FeaturedHome></FeaturedHome>
+      <AvailableNextMonth></AvailableNextMonth>
     </div>
   );
 };

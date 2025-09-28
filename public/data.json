@@ -1,0 +1,1274 @@
+[
+  {
+    "title": "Cozy Apartment in Paris",
+    "location": "Paris, France",
+    "price": 120,
+    "rating": 4.8,
+    "category": "Apartment",
+    "images": [
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1012580984161557102/original/957664c0-4828-438b-b1f8-bc6936536c55.jpeg?im_w=1200",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1012580984161557102/original/de492e81-4d22-4011-8c6f-9a3ca58fba1d.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1012580984161557102/original/c1471610-9c60-4823-95c6-7cccb9e5a4c2.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1012580984161557102/original/d4213c90-0865-4f8d-8059-8509ab262d7b.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1012580984161557102/original/73a6baf4-e671-467f-91a5-cf7f26061fb9.jpeg?im_w=720"
+    ],
+    "reviews": {
+      "cleanliness": 4.7,
+      "accuracy": 4.8,
+      "checkIn": 4.9,
+      "communication": 5.0,
+      "location": 4.9,
+      "value": 4.6
+    },
+    "hostId": "host_101",
+    "summary": "1 double bed · Shared bathroom",
+    "description": {
+      "aboutPlace": "A charming Paris apartment in the heart of the city, perfect for couples and solo travelers.",
+      "roomFacilities": "Wi-Fi, TV, heating, small balcony",
+      "other": "Close to metro, cafes, and museums."
+    },
+    "availableDates": [{ "startDate": "2025-09-29", "endDate": "2025-10-10" }],
+    "offers": [
+      "Free Wi-Fi",
+      "Breakfast included",
+      "City guide",
+      "Kitchen access"
+    ],
+    "houseRules": "No smoking, No pets, Quiet hours after 10 PM",
+    "safetyPolicy": "Smoke detector, First aid kit available",
+    "cancellationPolicy": "Free cancellation up to 48 hours before check-in",
+    "maxGuest": "4",
+    "isFeatured": true
+  },
+  {
+    "title": "Beachfront Villa in Bali",
+    "location": "Bali, Indonesia",
+    "price": 250,
+    "rating": 4.9,
+    "category": "Villa",
+    "images": [
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTI2NDkzNDc1MTgyNjYzMzIyMw%3D%3D/original/b148e18f-bd28-4502-b41f-688a27a92fa0.jpeg?im_w=1200",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTI2NDkzNDc1MTgyNjYzMzIyMw%3D%3D/original/73eca27f-f5de-4442-9c7e-8f29f1e8816c.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTI2NDkzNDc1MTgyNjYzMzIyMw%3D%3D/original/55522358-ec04-457e-b6ac-2873ab55817a.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTI2NDkzNDc1MTgyNjYzMzIyMw%3D%3D/original/fc04da70-bf06-449e-95e0-cd4f1bc32edc.jpeg?im_w=1200",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTI2NDkzNDc1MTgyNjYzMzIyMw%3D%3D/original/926bea45-123e-442c-a339-51c41aba6aee.jpeg?im_w=720"
+    ],
+    "reviews": {
+      "cleanliness": 4.9,
+      "accuracy": 4.8,
+      "checkIn": 5.0,
+      "communication": 4.9,
+      "location": 5.0,
+      "value": 4.7
+    },
+    "hostId": "host_202",
+    "summary": "3 bedrooms · 2 bathrooms · Private pool",
+    "description": {
+      "aboutPlace": "A luxury villa with ocean view and direct beach access.",
+      "roomFacilities": "Private pool, kitchen, air conditioning, Wi-Fi",
+      "other": "Personal chef service available upon request."
+    },
+    "availableDates": [{ "startDate": "2025-09-30", "endDate": "2025-10-10" }],
+    "offers": [
+      "Private pool",
+      "Airport pickup",
+      "Daily cleaning",
+      "Breakfast included"
+    ],
+    "houseRules": "No parties, No pets",
+    "safetyPolicy": "24/7 security, Fire extinguisher, CCTV outside property",
+    "cancellationPolicy": "50% refund if cancelled at least 7 days before check-in",
+    "maxGuest": "4",
+    "isFeatured": true
+  },
+  {
+    "title": "Rustic Cabin in Banff",
+    "location": "Banff, Canada",
+    "price": 150,
+    "rating": 4.6,
+    "category": "Cabin",
+    "images": [
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1012580984161557102/original/957664c0-4828-438b-b1f8-bc6936536c55.jpeg?im_w=1200",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1012580984161557102/original/de492e81-4d22-4011-8c6f-9a3ca58fba1d.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1012580984161557102/original/c1471610-9c60-4823-95c6-7cccb9e5a4c2.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1012580984161557102/original/d4213c90-0865-4f8d-8059-8509ab262d7b.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1012580984161557102/original/73a6baf4-e671-467f-91a5-cf7f26061fb9.jpeg?im_w=720"
+    ],
+    "reviews": {
+      "cleanliness": 4.5,
+      "accuracy": 4.6,
+      "checkIn": 4.7,
+      "communication": 4.8,
+      "location": 4.9,
+      "value": 4.6
+    },
+    "hostId": "host_303",
+    "summary": "2 double beds · 1 bathroom · Fireplace",
+    "description": {
+      "aboutPlace": "A cozy log cabin surrounded by pine trees, ideal for nature lovers.",
+      "roomFacilities": "Fireplace, kitchen, Wi-Fi, outdoor seating",
+      "other": "Hiking trails start right outside the cabin."
+    },
+    "availableDates": [{ "startDate": "2025-09-29", "endDate": "2025-10-14" }],
+    "offers": ["Free parking", "Mountain view", "Firewood included"],
+    "houseRules": "No smoking indoors, Pets allowed with fee",
+    "safetyPolicy": "Carbon monoxide detector, Emergency contact info provided",
+    "cancellationPolicy": "Non-refundable once booked",
+    "maxGuest": "4",
+    "isFeatured": true
+  },
+  {
+    "title": "Modern Loft in New York City",
+    "location": "Manhattan, New York",
+    "price": 180,
+    "rating": 4.7,
+    "category": "Loft",
+    "images": [
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTI2NDkzNDc1MTgyNjYzMzIyMw%3D%3D/original/b148e18f-bd28-4502-b41f-688a27a92fa0.jpeg?im_w=1200",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTI2NDkzNDc1MTgyNjYzMzIyMw%3D%3D/original/73eca27f-f5de-4442-9c7e-8f29f1e8816c.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTI2NDkzNDc1MTgyNjYzMzIyMw%3D%3D/original/55522358-ec04-457e-b6ac-2873ab55817a.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTI2NDkzNDc1MTgyNjYzMzIyMw%3D%3D/original/fc04da70-bf06-449e-95e0-cd4f1bc32edc.jpeg?im_w=1200",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTI2NDkzNDc1MTgyNjYzMzIyMw%3D%3D/original/926bea45-123e-442c-a339-51c41aba6aee.jpeg?im_w=720"
+    ],
+    "reviews": {
+      "cleanliness": 4.6,
+      "accuracy": 4.7,
+      "checkIn": 4.8,
+      "communication": 4.9,
+      "location": 5.0,
+      "value": 4.5
+    },
+    "hostId": "host_404",
+    "summary": "1 queen bed · 1 bathroom · Open kitchen",
+    "description": {
+      "aboutPlace": "This loft is located in the vibrant heart of Manhattan, offering guests the true New York experience. With floor-to-ceiling windows, modern furniture, and urban design elements, the loft creates a unique blend of comfort and city living. Guests will be surrounded by iconic landmarks, trendy restaurants, and endless entertainment options within walking distance.",
+      "roomFacilities": "The loft features a queen-size bed, modern bathroom with rainfall shower, open-plan kitchen with high-end appliances, and a workspace suitable for business travelers. Guests also have access to Wi-Fi, air conditioning, a flat-screen TV, and stylish décor designed to make the stay both comfortable and visually appealing.",
+      "other": "Additional perks include proximity to subway stations, concierge services, and optional cleaning services for extended stays. The loft is situated in a secure building with 24/7 surveillance and easy access to grocery stores, fitness centers, and cultural attractions like Broadway shows and art galleries."
+    },
+    "availableDates": [{ "startDate": "2025-09-29", "endDate": "2025-10-15" }],
+    "offers": [
+      "High-speed Wi-Fi",
+      "Smart TV",
+      "Equipped kitchen",
+      "Workspace",
+      "City skyline view"
+    ],
+    "houseRules": "No smoking, No loud parties, Respect building quiet hours after 11 PM",
+    "safetyPolicy": "Equipped with fire alarm, carbon monoxide detector, and building security personnel",
+    "cancellationPolicy": "Full refund up to 5 days before check-in",
+    "maxGuest": "4",
+    "isFeatured": true
+  },
+  {
+    "title": "Traditional Ryokan in Kyoto",
+    "location": "Kyoto, Japan",
+    "price": 140,
+    "rating": 4.9,
+    "category": "Ryokan",
+    "images": [
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1012580984161557102/original/957664c0-4828-438b-b1f8-bc6936536c55.jpeg?im_w=1200",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1012580984161557102/original/de492e81-4d22-4011-8c6f-9a3ca58fba1d.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1012580984161557102/original/c1471610-9c60-4823-95c6-7cccb9e5a4c2.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1012580984161557102/original/d4213c90-0865-4f8d-8059-8509ab262d7b.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1012580984161557102/original/73a6baf4-e671-467f-91a5-cf7f26061fb9.jpeg?im_w=720"
+    ],
+    "reviews": {
+      "cleanliness": 5.0,
+      "accuracy": 4.9,
+      "checkIn": 4.9,
+      "communication": 5.0,
+      "location": 4.8,
+      "value": 4.9
+    },
+    "hostId": "host_505",
+    "summary": "1 futon bed · Shared bath · Tatami room",
+    "description": {
+      "aboutPlace": "Experience authentic Japanese culture in this traditional ryokan located in the heart of Kyoto. Guests will stay in a tatami-matted room with sliding shoji doors and futon bedding. The ryokan blends centuries-old architecture with modern amenities, offering a unique opportunity to experience Japanese heritage while enjoying comfort and convenience.",
+      "roomFacilities": "Each room comes with tatami flooring, futon bedding, a low dining table, and yukata robes for guests. The shared bath includes a traditional Japanese onsen-style tub. Additional amenities include complimentary tea, Wi-Fi access, air conditioning, and an option to request traditional Japanese breakfast and dinner served in-room.",
+      "other": "Guests can enjoy a peaceful garden view, access to meditation spaces, and guidance from the host on local temples and cultural practices. The ryokan is walking distance from iconic Kyoto temples, tea houses, and seasonal attractions like cherry blossom viewing and autumn leaf festivals."
+    },
+    "availableDates": [{ "startDate": "2025-10-01", "endDate": "2025-10-10" }],
+    "offers": [
+      "Traditional meals",
+      "Japanese tea set",
+      "Onsen bath access",
+      "Garden view"
+    ],
+    "houseRules": "Respect traditional customs, No shoes inside tatami areas, Quiet hours after 9 PM",
+    "safetyPolicy": "Fire extinguisher, earthquake emergency kit, and secure entry system",
+    "cancellationPolicy": "Free cancellation up to 7 days before check-in",
+    "maxGuest": "4",
+    "isFeatured": true
+  },
+  {
+    "title": "Seaside Cottage in Amalfi",
+    "location": "Amalfi Coast, Italy",
+    "price": 200,
+    "rating": 4.8,
+    "category": "Cottage",
+    "images": [
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTI2NDkzNDc1MTgyNjYzMzIyMw%3D%3D/original/b148e18f-bd28-4502-b41f-688a27a92fa0.jpeg?im_w=1200",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTI2NDkzNDc1MTgyNjYzMzIyMw%3D%3D/original/73eca27f-f5de-4442-9c7e-8f29f1e8816c.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTI2NDkzNDc1MTgyNjYzMzIyMw%3D%3D/original/55522358-ec04-457e-b6ac-2873ab55817a.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTI2NDkzNDc1MTgyNjYzMzIyMw%3D%3D/original/fc04da70-bf06-449e-95e0-cd4f1bc32edc.jpeg?im_w=1200",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTI2NDkzNDc1MTgyNjYzMzIyMw%3D%3D/original/926bea45-123e-442c-a339-51c41aba6aee.jpeg?im_w=720"
+    ],
+    "reviews": {
+      "cleanliness": 4.8,
+      "accuracy": 4.7,
+      "checkIn": 4.9,
+      "communication": 4.9,
+      "location": 5.0,
+      "value": 4.6
+    },
+    "hostId": "host_606",
+    "summary": "2 bedrooms · 1 bathroom · Ocean view terrace",
+    "description": {
+      "aboutPlace": "This charming cottage offers breathtaking views of the Amalfi Coast, combining rustic Italian charm with seaside tranquility. Guests can enjoy morning coffee on the terrace while overlooking the Mediterranean Sea. The cottage is surrounded by lemon groves and is just a short walk away from local trattorias and coastal trails.",
+      "roomFacilities": "The cottage features two bedrooms with comfortable bedding, a modern bathroom, fully equipped kitchen, and a spacious terrace for outdoor dining. Guests have access to Wi-Fi, air conditioning, and laundry facilities. The décor blends rustic stone walls with coastal accents, creating a cozy and inviting atmosphere.",
+      "other": "Additional features include private beach access, guided boat tours, and cooking classes with local chefs. The cottage is ideal for families or couples looking for a romantic retreat while staying close to iconic Amalfi attractions like Positano and Ravello."
+    },
+    "availableDates": [{ "startDate": "2025-10-01", "endDate": "2025-10-16" }],
+    "offers": [
+      "Private terrace",
+      "Free parking",
+      "Beach access",
+      "Cooking class"
+    ],
+    "houseRules": "No smoking indoors, Respect neighbors, Pets allowed with prior notice",
+    "safetyPolicy": "Life vests for boating, fire extinguisher, and first aid kit provided",
+    "cancellationPolicy": "50% refund up to 14 days before check-in",
+    "maxGuest": "4",
+    "isFeatured": true
+  },
+  {
+    "title": "Rustic Cabin in the Forest",
+    "location": "Yosemite, USA",
+    "price": 120,
+    "rating": 4.8,
+    "category": "Cabin",
+    "images": [
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1012580984161557102/original/957664c0-4828-438b-b1f8-bc6936536c55.jpeg?im_w=1200",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1012580984161557102/original/de492e81-4d22-4011-8c6f-9a3ca58fba1d.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1012580984161557102/original/c1471610-9c60-4823-95c6-7cccb9e5a4c2.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1012580984161557102/original/d4213c90-0865-4f8d-8059-8509ab262d7b.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1012580984161557102/original/73a6baf4-e671-467f-91a5-cf7f26061fb9.jpeg?im_w=720"
+    ],
+    "reviews": {
+      "Cleanliness": 4.7,
+      "Accuracy": 4.8,
+      "Check-in": 4.9,
+      "Communication": 5.0,
+      "Location": 4.9,
+      "Value": 4.6
+    },
+    "hostId": "host_007",
+    "summary": "1 queen bed · Private bathroom",
+    "description": {
+      "aboutPlace": "Nestled deep within Yosemite's lush pine forest, this rustic cabin offers a peaceful retreat surrounded by nature. The cabin is crafted with natural wood and stone elements, providing a cozy yet authentic wilderness experience for couples or solo travelers.",
+      "roomFacilities": "The cabin includes a spacious bedroom with a queen-size bed, a wood-burning stove, and large windows offering breathtaking views of the forest. Guests also enjoy a private bathroom, outdoor seating, and a small kitchenette.",
+      "other": "Perfect for hikers, adventurers, or those seeking a digital detox, the cabin comes with limited Wi-Fi but excellent access to trails. Wildlife such as deer and birds are commonly seen in the area."
+    },
+    "availableDates": [{ "startDate": "2025-10-01", "endDate": "2025-10-10" }],
+    "offers": [
+      "Hiking trails nearby",
+      "Firewood provided",
+      "Free parking",
+      "Outdoor dining space"
+    ],
+    "houseRules": [
+      "No smoking indoors",
+      "Quiet hours after 10 PM",
+      "Pets allowed on request"
+    ],
+    "safetyPolicy": [
+      "First aid kit available",
+      "Smoke detector installed",
+      "Fire extinguisher provided"
+    ],
+    "cancellationPolicy": "Free cancellation up to 7 days before check-in. 50% refund after that.",
+    "maxGuest": "4",
+    "isFeatured": true
+  },
+  {
+    "title": "Seaside Apartment with Balcony",
+    "location": "Nice, France",
+    "price": 200,
+    "rating": 4.6,
+    "category": "Apartment",
+    "images": [
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1327884395276083382/original/e2643354-5f1c-42dc-9f1b-6935b3938550.jpeg?im_w=1200",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1327884395276083382/original/be98b7dd-6fcc-4c19-9de0-f239b74fd82a.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1327884395276083382/original/76285f63-6156-4ef2-a504-961409e95915.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1327884395276083382/original/a6a2c3be-3942-4854-88e3-c821165f1d5e.jpeg?im_w=1200",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1327884395276083382/original/df7937b2-c095-4f7a-9e41-efd5079793ab.jpeg?im_w=720"
+    ],
+    "reviews": {
+      "Cleanliness": 4.8,
+      "Accuracy": 4.6,
+      "Check-in": 4.5,
+      "Communication": 4.7,
+      "Location": 4.9,
+      "Value": 4.5
+    },
+    "hostId": "host_008",
+    "summary": "2 double beds · 1 bathroom · Balcony with sea view",
+    "description": {
+      "aboutPlace": "This beautiful seaside apartment in Nice is designed to give guests the perfect Mediterranean experience. Located just steps from the beach, the apartment provides modern comfort with stunning balcony views of the French Riviera coastline.",
+      "roomFacilities": "Guests have access to two spacious bedrooms with double beds, a well-equipped kitchen, a clean bathroom, and a bright living area. The highlight is the balcony where you can enjoy morning coffee while watching the sunrise.",
+      "other": "The apartment is close to local markets, restaurants, and attractions. Public transport is easily accessible, making it ideal for exploring Nice and nearby Monaco or Cannes."
+    },
+    "availableDates": [{ "startDate": "2025-10-01", "endDate": "2025-10-09" }],
+    "offers": ["Beach access", "Wi-Fi", "Fully equipped kitchen", "Washer"],
+    "houseRules": ["No parties or events", "No smoking", "Respect neighbors"],
+    "safetyPolicy": [
+      "Smoke alarm installed",
+      "Fire extinguisher",
+      "Secure building entry"
+    ],
+    "cancellationPolicy": "Full refund within 48 hours of booking. After that, 50% refund until 5 days before check-in.",
+    "maxGuest": "4",
+    "isFeatured": true
+  },
+  {
+    "title": "Traditional Ryokan Experience",
+    "location": "Kyoto, Japan",
+    "price": 160,
+    "rating": 4.9,
+    "category": "Ryokan",
+    "images": [
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1231905705480318485/original/0537ba95-a632-49ca-8e24-bae16bbae183.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1231905705480318485/original/85310a3e-0f12-413b-8973-1007632f40b3.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1231905705480318485/original/c7462f87-f2ea-4e22-87d0-d0d71c165813.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1231905705480318485/original/99b9eadf-f278-4561-a35e-949f5ffdfc77.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1231905705480318485/original/a694afc3-46d0-4731-ba46-577c724644f8.jpeg?im_w=720"
+    ],
+    "reviews": {
+      "Cleanliness": 4.9,
+      "Accuracy": 4.8,
+      "Check-in": 4.9,
+      "Communication": 5.0,
+      "Location": 4.7,
+      "Value": 4.8
+    },
+    "hostId": "host_009",
+    "summary": "1 futon bed · Shared bathroom · Tatami flooring",
+    "description": {
+      "aboutPlace": "Experience authentic Japanese hospitality in this traditional ryokan in the heart of Kyoto. Guests can enjoy serene surroundings, tatami mat floors, sliding shoji doors, and Japanese tea served in-room upon arrival.",
+      "roomFacilities": "Each guest room features a futon bed, tatami flooring, and access to shared hot spring baths (onsen). Guests are provided with yukata robes and traditional Japanese meals upon request.",
+      "other": "The ryokan is close to Kyoto’s famous temples and gardens, making it ideal for travelers interested in Japanese culture and history. A tranquil courtyard garden is available for relaxation."
+    },
+    "availableDates": [{ "startDate": "2025-10-01", "endDate": "2025-10-17" }],
+    "offers": [
+      "Onsen hot spring bath",
+      "Traditional breakfast",
+      "Free tea ceremony",
+      "Garden access"
+    ],
+    "houseRules": [
+      "Shoes off indoors",
+      "Quiet hours 9 PM - 7 AM",
+      "No outside food"
+    ],
+    "safetyPolicy": [
+      "Smoke alarms installed",
+      "Emergency exit signs",
+      "Earthquake safety kit provided"
+    ],
+    "cancellationPolicy": "Free cancellation up to 10 days before check-in. No refund after.",
+    "maxGuest": "4",
+    "isFeatured": true
+  },
+  {
+    "title": "Luxury Villa with Private Pool",
+    "location": "Bali, Indonesia",
+    "price": 350,
+    "rating": 5.0,
+    "category": "Villa",
+    "images": [
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1327884395276083382/original/e2643354-5f1c-42dc-9f1b-6935b3938550.jpeg?im_w=1200",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1327884395276083382/original/be98b7dd-6fcc-4c19-9de0-f239b74fd82a.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1327884395276083382/original/76285f63-6156-4ef2-a504-961409e95915.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1327884395276083382/original/a6a2c3be-3942-4854-88e3-c821165f1d5e.jpeg?im_w=1200",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1327884395276083382/original/df7937b2-c095-4f7a-9e41-efd5079793ab.jpeg?im_w=720"
+    ],
+    "reviews": {
+      "Cleanliness": 5.0,
+      "Accuracy": 5.0,
+      "Check-in": 4.9,
+      "Communication": 5.0,
+      "Location": 4.8,
+      "Value": 4.7
+    },
+    "hostId": "host_010",
+    "summary": "3 king beds · 3 bathrooms · Private pool and garden",
+    "description": {
+      "aboutPlace": "This luxurious villa in Bali offers the ultimate tropical getaway for families and groups. With its private pool, lush gardens, and open-air living spaces, guests will experience a perfect balance of relaxation and modern comfort.",
+      "roomFacilities": "The villa features three bedrooms with king-size beds, three spacious bathrooms, an infinity pool, and a fully equipped kitchen. Outdoor dining and lounge areas make it perfect for entertaining or simply relaxing under the sun.",
+      "other": "The villa is located close to Seminyak’s vibrant nightlife and beaches. A private chef and daily housekeeping are available upon request to enhance your stay."
+    },
+    "availableDates": [{ "startDate": "2025-10-01", "endDate": "2025-10-15" }],
+    "offers": ["Private pool", "Daily housekeeping", "Airport pickup", "Wi-Fi"],
+    "houseRules": [
+      "No loud parties",
+      "No smoking indoors",
+      "Respect staff and property"
+    ],
+    "safetyPolicy": [
+      "Gated property",
+      "24/7 security",
+      "Pool safety fence available on request"
+    ],
+    "cancellationPolicy": "50% refund up to 14 days before check-in. No refund after.",
+    "maxGuest": "4",
+    "isFeatured": true
+  },
+  {
+    "title": "Cozy Apartment in Paris",
+    "location": "Paris, France",
+    "price": 120,
+    "rating": 4.8,
+    "category": "Apartment",
+    "images": [
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1012580984161557102/original/957664c0-4828-438b-b1f8-bc6936536c55.jpeg?im_w=1200",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1012580984161557102/original/de492e81-4d22-4011-8c6f-9a3ca58fba1d.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1012580984161557102/original/c1471610-9c60-4823-95c6-7cccb9e5a4c2.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1012580984161557102/original/d4213c90-0865-4f8d-8059-8509ab262d7b.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1012580984161557102/original/73a6baf4-e671-467f-91a5-cf7f26061fb9.jpeg?im_w=720"
+    ],
+    "reviews": {
+      "cleanliness": 4.7,
+      "accuracy": 4.8,
+      "checkIn": 4.9,
+      "communication": 5.0,
+      "location": 4.9,
+      "value": 4.6
+    },
+    "hostId": "host_101",
+    "summary": "1 double bed · Shared bathroom",
+    "description": {
+      "aboutPlace": "A charming Paris apartment in the heart of the city, perfect for couples and solo travelers.",
+      "roomFacilities": "Wi-Fi, TV, heating, small balcony",
+      "other": "Close to metro, cafes, and museums."
+    },
+    "availableDates": [{ "startDate": "2025-09-29", "endDate": "2025-10-10" }],
+    "offers": [
+      "Free Wi-Fi",
+      "Breakfast included",
+      "City guide",
+      "Kitchen access"
+    ],
+    "houseRules": "No smoking, No pets, Quiet hours after 10 PM",
+    "safetyPolicy": "Smoke detector, First aid kit available",
+    "cancellationPolicy": "Free cancellation up to 48 hours before check-in",
+    "maxGuest": "4",
+    "isFeatured": true
+  },
+  {
+    "title": "Beachfront Villa in Bali",
+    "location": "Bali, Indonesia",
+    "price": 250,
+    "rating": 4.9,
+    "category": "Villa",
+    "images": [
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTI2NDkzNDc1MTgyNjYzMzIyMw%3D%3D/original/b148e18f-bd28-4502-b41f-688a27a92fa0.jpeg?im_w=1200",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTI2NDkzNDc1MTgyNjYzMzIyMw%3D%3D/original/73eca27f-f5de-4442-9c7e-8f29f1e8816c.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTI2NDkzNDc1MTgyNjYzMzIyMw%3D%3D/original/55522358-ec04-457e-b6ac-2873ab55817a.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTI2NDkzNDc1MTgyNjYzMzIyMw%3D%3D/original/fc04da70-bf06-449e-95e0-cd4f1bc32edc.jpeg?im_w=1200",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTI2NDkzNDc1MTgyNjYzMzIyMw%3D%3D/original/926bea45-123e-442c-a339-51c41aba6aee.jpeg?im_w=720"
+    ],
+    "reviews": {
+      "cleanliness": 4.9,
+      "accuracy": 4.8,
+      "checkIn": 5.0,
+      "communication": 4.9,
+      "location": 5.0,
+      "value": 4.7
+    },
+    "hostId": "host_202",
+    "summary": "3 bedrooms · 2 bathrooms · Private pool",
+    "description": {
+      "aboutPlace": "A luxury villa with ocean view and direct beach access.",
+      "roomFacilities": "Private pool, kitchen, air conditioning, Wi-Fi",
+      "other": "Personal chef service available upon request."
+    },
+    "availableDates": [{ "startDate": "2025-09-30", "endDate": "2025-10-10" }],
+    "offers": [
+      "Private pool",
+      "Airport pickup",
+      "Daily cleaning",
+      "Breakfast included"
+    ],
+    "houseRules": "No parties, No pets",
+    "safetyPolicy": "24/7 security, Fire extinguisher, CCTV outside property",
+    "cancellationPolicy": "50% refund if cancelled at least 7 days before check-in",
+    "maxGuest": "4",
+    "isFeatured": true
+  },
+  {
+    "title": "Rustic Cabin in Banff",
+    "location": "Banff, Canada",
+    "price": 150,
+    "rating": 4.6,
+    "category": "Cabin",
+    "images": [
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1012580984161557102/original/957664c0-4828-438b-b1f8-bc6936536c55.jpeg?im_w=1200",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1012580984161557102/original/de492e81-4d22-4011-8c6f-9a3ca58fba1d.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1012580984161557102/original/c1471610-9c60-4823-95c6-7cccb9e5a4c2.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1012580984161557102/original/d4213c90-0865-4f8d-8059-8509ab262d7b.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1012580984161557102/original/73a6baf4-e671-467f-91a5-cf7f26061fb9.jpeg?im_w=720"
+    ],
+    "reviews": {
+      "cleanliness": 4.5,
+      "accuracy": 4.6,
+      "checkIn": 4.7,
+      "communication": 4.8,
+      "location": 4.9,
+      "value": 4.6
+    },
+    "hostId": "host_303",
+    "summary": "2 double beds · 1 bathroom · Fireplace",
+    "description": {
+      "aboutPlace": "A cozy log cabin surrounded by pine trees, ideal for nature lovers.",
+      "roomFacilities": "Fireplace, kitchen, Wi-Fi, outdoor seating",
+      "other": "Hiking trails start right outside the cabin."
+    },
+    "availableDates": [{ "startDate": "2025-09-29", "endDate": "2025-10-14" }],
+    "offers": ["Free parking", "Mountain view", "Firewood included"],
+    "houseRules": "No smoking indoors, Pets allowed with fee",
+    "safetyPolicy": "Carbon monoxide detector, Emergency contact info provided",
+    "cancellationPolicy": "Non-refundable once booked",
+    "maxGuest": "4",
+    "isFeatured": true
+  },
+  {
+    "title": "Modern Loft in New York City",
+    "location": "Manhattan, New York",
+    "price": 180,
+    "rating": 4.7,
+    "category": "Loft",
+    "images": [
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTI2NDkzNDc1MTgyNjYzMzIyMw%3D%3D/original/b148e18f-bd28-4502-b41f-688a27a92fa0.jpeg?im_w=1200",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTI2NDkzNDc1MTgyNjYzMzIyMw%3D%3D/original/73eca27f-f5de-4442-9c7e-8f29f1e8816c.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTI2NDkzNDc1MTgyNjYzMzIyMw%3D%3D/original/55522358-ec04-457e-b6ac-2873ab55817a.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTI2NDkzNDc1MTgyNjYzMzIyMw%3D%3D/original/fc04da70-bf06-449e-95e0-cd4f1bc32edc.jpeg?im_w=1200",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTI2NDkzNDc1MTgyNjYzMzIyMw%3D%3D/original/926bea45-123e-442c-a339-51c41aba6aee.jpeg?im_w=720"
+    ],
+    "reviews": {
+      "cleanliness": 4.6,
+      "accuracy": 4.7,
+      "checkIn": 4.8,
+      "communication": 4.9,
+      "location": 5.0,
+      "value": 4.5
+    },
+    "hostId": "host_404",
+    "summary": "1 queen bed · 1 bathroom · Open kitchen",
+    "description": {
+      "aboutPlace": "This loft is located in the vibrant heart of Manhattan, offering guests the true New York experience. With floor-to-ceiling windows, modern furniture, and urban design elements, the loft creates a unique blend of comfort and city living. Guests will be surrounded by iconic landmarks, trendy restaurants, and endless entertainment options within walking distance.",
+      "roomFacilities": "The loft features a queen-size bed, modern bathroom with rainfall shower, open-plan kitchen with high-end appliances, and a workspace suitable for business travelers. Guests also have access to Wi-Fi, air conditioning, a flat-screen TV, and stylish décor designed to make the stay both comfortable and visually appealing.",
+      "other": "Additional perks include proximity to subway stations, concierge services, and optional cleaning services for extended stays. The loft is situated in a secure building with 24/7 surveillance and easy access to grocery stores, fitness centers, and cultural attractions like Broadway shows and art galleries."
+    },
+    "availableDates": [{ "startDate": "2025-09-29", "endDate": "2025-10-15" }],
+    "offers": [
+      "High-speed Wi-Fi",
+      "Smart TV",
+      "Equipped kitchen",
+      "Workspace",
+      "City skyline view"
+    ],
+    "houseRules": "No smoking, No loud parties, Respect building quiet hours after 11 PM",
+    "safetyPolicy": "Equipped with fire alarm, carbon monoxide detector, and building security personnel",
+    "cancellationPolicy": "Full refund up to 5 days before check-in",
+    "maxGuest": "4",
+    "isFeatured": true
+  },
+  {
+    "title": "Traditional Ryokan in Kyoto",
+    "location": "Kyoto, Japan",
+    "price": 140,
+    "rating": 4.9,
+    "category": "Ryokan",
+    "images": [
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1012580984161557102/original/957664c0-4828-438b-b1f8-bc6936536c55.jpeg?im_w=1200",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1012580984161557102/original/de492e81-4d22-4011-8c6f-9a3ca58fba1d.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1012580984161557102/original/c1471610-9c60-4823-95c6-7cccb9e5a4c2.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1012580984161557102/original/d4213c90-0865-4f8d-8059-8509ab262d7b.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1012580984161557102/original/73a6baf4-e671-467f-91a5-cf7f26061fb9.jpeg?im_w=720"
+    ],
+    "reviews": {
+      "cleanliness": 5.0,
+      "accuracy": 4.9,
+      "checkIn": 4.9,
+      "communication": 5.0,
+      "location": 4.8,
+      "value": 4.9
+    },
+    "hostId": "host_505",
+    "summary": "1 futon bed · Shared bath · Tatami room",
+    "description": {
+      "aboutPlace": "Experience authentic Japanese culture in this traditional ryokan located in the heart of Kyoto. Guests will stay in a tatami-matted room with sliding shoji doors and futon bedding. The ryokan blends centuries-old architecture with modern amenities, offering a unique opportunity to experience Japanese heritage while enjoying comfort and convenience.",
+      "roomFacilities": "Each room comes with tatami flooring, futon bedding, a low dining table, and yukata robes for guests. The shared bath includes a traditional Japanese onsen-style tub. Additional amenities include complimentary tea, Wi-Fi access, air conditioning, and an option to request traditional Japanese breakfast and dinner served in-room.",
+      "other": "Guests can enjoy a peaceful garden view, access to meditation spaces, and guidance from the host on local temples and cultural practices. The ryokan is walking distance from iconic Kyoto temples, tea houses, and seasonal attractions like cherry blossom viewing and autumn leaf festivals."
+    },
+    "availableDates": [{ "startDate": "2025-10-01", "endDate": "2025-10-10" }],
+    "offers": [
+      "Traditional meals",
+      "Japanese tea set",
+      "Onsen bath access",
+      "Garden view"
+    ],
+    "houseRules": "Respect traditional customs, No shoes inside tatami areas, Quiet hours after 9 PM",
+    "safetyPolicy": "Fire extinguisher, earthquake emergency kit, and secure entry system",
+    "cancellationPolicy": "Free cancellation up to 7 days before check-in",
+    "maxGuest": "4",
+    "isFeatured": true
+  },
+  {
+    "title": "Seaside Cottage in Amalfi",
+    "location": "Amalfi Coast, Italy",
+    "price": 200,
+    "rating": 4.8,
+    "category": "Cottage",
+    "images": [
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTI2NDkzNDc1MTgyNjYzMzIyMw%3D%3D/original/b148e18f-bd28-4502-b41f-688a27a92fa0.jpeg?im_w=1200",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTI2NDkzNDc1MTgyNjYzMzIyMw%3D%3D/original/73eca27f-f5de-4442-9c7e-8f29f1e8816c.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTI2NDkzNDc1MTgyNjYzMzIyMw%3D%3D/original/55522358-ec04-457e-b6ac-2873ab55817a.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTI2NDkzNDc1MTgyNjYzMzIyMw%3D%3D/original/fc04da70-bf06-449e-95e0-cd4f1bc32edc.jpeg?im_w=1200",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTI2NDkzNDc1MTgyNjYzMzIyMw%3D%3D/original/926bea45-123e-442c-a339-51c41aba6aee.jpeg?im_w=720"
+    ],
+    "reviews": {
+      "cleanliness": 4.8,
+      "accuracy": 4.7,
+      "checkIn": 4.9,
+      "communication": 4.9,
+      "location": 5.0,
+      "value": 4.6
+    },
+    "hostId": "host_606",
+    "summary": "2 bedrooms · 1 bathroom · Ocean view terrace",
+    "description": {
+      "aboutPlace": "This charming cottage offers breathtaking views of the Amalfi Coast, combining rustic Italian charm with seaside tranquility. Guests can enjoy morning coffee on the terrace while overlooking the Mediterranean Sea. The cottage is surrounded by lemon groves and is just a short walk away from local trattorias and coastal trails.",
+      "roomFacilities": "The cottage features two bedrooms with comfortable bedding, a modern bathroom, fully equipped kitchen, and a spacious terrace for outdoor dining. Guests have access to Wi-Fi, air conditioning, and laundry facilities. The décor blends rustic stone walls with coastal accents, creating a cozy and inviting atmosphere.",
+      "other": "Additional features include private beach access, guided boat tours, and cooking classes with local chefs. The cottage is ideal for families or couples looking for a romantic retreat while staying close to iconic Amalfi attractions like Positano and Ravello."
+    },
+    "availableDates": [{ "startDate": "2025-10-01", "endDate": "2025-10-16" }],
+    "offers": [
+      "Private terrace",
+      "Free parking",
+      "Beach access",
+      "Cooking class"
+    ],
+    "houseRules": "No smoking indoors, Respect neighbors, Pets allowed with prior notice",
+    "safetyPolicy": "Life vests for boating, fire extinguisher, and first aid kit provided",
+    "cancellationPolicy": "50% refund up to 14 days before check-in",
+    "maxGuest": "4",
+    "isFeatured": true
+  },
+  {
+    "title": "Rustic Cabin in the Forest",
+    "location": "Yosemite, USA",
+    "price": 120,
+    "rating": 4.8,
+    "category": "Cabin",
+    "images": [
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1012580984161557102/original/957664c0-4828-438b-b1f8-bc6936536c55.jpeg?im_w=1200",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1012580984161557102/original/de492e81-4d22-4011-8c6f-9a3ca58fba1d.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1012580984161557102/original/c1471610-9c60-4823-95c6-7cccb9e5a4c2.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1012580984161557102/original/d4213c90-0865-4f8d-8059-8509ab262d7b.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1012580984161557102/original/73a6baf4-e671-467f-91a5-cf7f26061fb9.jpeg?im_w=720"
+    ],
+    "reviews": {
+      "Cleanliness": 4.7,
+      "Accuracy": 4.8,
+      "Check-in": 4.9,
+      "Communication": 5.0,
+      "Location": 4.9,
+      "Value": 4.6
+    },
+    "hostId": "host_007",
+    "summary": "1 queen bed · Private bathroom",
+    "description": {
+      "aboutPlace": "Nestled deep within Yosemite's lush pine forest, this rustic cabin offers a peaceful retreat surrounded by nature. The cabin is crafted with natural wood and stone elements, providing a cozy yet authentic wilderness experience for couples or solo travelers.",
+      "roomFacilities": "The cabin includes a spacious bedroom with a queen-size bed, a wood-burning stove, and large windows offering breathtaking views of the forest. Guests also enjoy a private bathroom, outdoor seating, and a small kitchenette.",
+      "other": "Perfect for hikers, adventurers, or those seeking a digital detox, the cabin comes with limited Wi-Fi but excellent access to trails. Wildlife such as deer and birds are commonly seen in the area."
+    },
+    "availableDates": [{ "startDate": "2025-10-01", "endDate": "2025-10-10" }],
+    "offers": [
+      "Hiking trails nearby",
+      "Firewood provided",
+      "Free parking",
+      "Outdoor dining space"
+    ],
+    "houseRules": [
+      "No smoking indoors",
+      "Quiet hours after 10 PM",
+      "Pets allowed on request"
+    ],
+    "safetyPolicy": [
+      "First aid kit available",
+      "Smoke detector installed",
+      "Fire extinguisher provided"
+    ],
+    "cancellationPolicy": "Free cancellation up to 7 days before check-in. 50% refund after that.",
+    "maxGuest": "4",
+    "isFeatured": true
+  },
+  {
+    "title": "Seaside Apartment with Balcony",
+    "location": "Nice, France",
+    "price": 200,
+    "rating": 4.6,
+    "category": "Apartment",
+    "images": [
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1327884395276083382/original/e2643354-5f1c-42dc-9f1b-6935b3938550.jpeg?im_w=1200",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1327884395276083382/original/be98b7dd-6fcc-4c19-9de0-f239b74fd82a.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1327884395276083382/original/76285f63-6156-4ef2-a504-961409e95915.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1327884395276083382/original/a6a2c3be-3942-4854-88e3-c821165f1d5e.jpeg?im_w=1200",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1327884395276083382/original/df7937b2-c095-4f7a-9e41-efd5079793ab.jpeg?im_w=720"
+    ],
+    "reviews": {
+      "Cleanliness": 4.8,
+      "Accuracy": 4.6,
+      "Check-in": 4.5,
+      "Communication": 4.7,
+      "Location": 4.9,
+      "Value": 4.5
+    },
+    "hostId": "host_008",
+    "summary": "2 double beds · 1 bathroom · Balcony with sea view",
+    "description": {
+      "aboutPlace": "This beautiful seaside apartment in Nice is designed to give guests the perfect Mediterranean experience. Located just steps from the beach, the apartment provides modern comfort with stunning balcony views of the French Riviera coastline.",
+      "roomFacilities": "Guests have access to two spacious bedrooms with double beds, a well-equipped kitchen, a clean bathroom, and a bright living area. The highlight is the balcony where you can enjoy morning coffee while watching the sunrise.",
+      "other": "The apartment is close to local markets, restaurants, and attractions. Public transport is easily accessible, making it ideal for exploring Nice and nearby Monaco or Cannes."
+    },
+    "availableDates": [{ "startDate": "2025-10-01", "endDate": "2025-10-09" }],
+    "offers": ["Beach access", "Wi-Fi", "Fully equipped kitchen", "Washer"],
+    "houseRules": ["No parties or events", "No smoking", "Respect neighbors"],
+    "safetyPolicy": [
+      "Smoke alarm installed",
+      "Fire extinguisher",
+      "Secure building entry"
+    ],
+    "cancellationPolicy": "Full refund within 48 hours of booking. After that, 50% refund until 5 days before check-in.",
+    "maxGuest": "4",
+    "isFeatured": true
+  },
+  {
+    "title": "Traditional Ryokan Experience",
+    "location": "Kyoto, Japan",
+    "price": 160,
+    "rating": 4.9,
+    "category": "Ryokan",
+    "images": [
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1231905705480318485/original/0537ba95-a632-49ca-8e24-bae16bbae183.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1231905705480318485/original/85310a3e-0f12-413b-8973-1007632f40b3.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1231905705480318485/original/c7462f87-f2ea-4e22-87d0-d0d71c165813.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1231905705480318485/original/99b9eadf-f278-4561-a35e-949f5ffdfc77.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1231905705480318485/original/a694afc3-46d0-4731-ba46-577c724644f8.jpeg?im_w=720"
+    ],
+    "reviews": {
+      "Cleanliness": 4.9,
+      "Accuracy": 4.8,
+      "Check-in": 4.9,
+      "Communication": 5.0,
+      "Location": 4.7,
+      "Value": 4.8
+    },
+    "hostId": "host_009",
+    "summary": "1 futon bed · Shared bathroom · Tatami flooring",
+    "description": {
+      "aboutPlace": "Experience authentic Japanese hospitality in this traditional ryokan in the heart of Kyoto. Guests can enjoy serene surroundings, tatami mat floors, sliding shoji doors, and Japanese tea served in-room upon arrival.",
+      "roomFacilities": "Each guest room features a futon bed, tatami flooring, and access to shared hot spring baths (onsen). Guests are provided with yukata robes and traditional Japanese meals upon request.",
+      "other": "The ryokan is close to Kyoto’s famous temples and gardens, making it ideal for travelers interested in Japanese culture and history. A tranquil courtyard garden is available for relaxation."
+    },
+    "availableDates": [{ "startDate": "2025-10-01", "endDate": "2025-10-17" }],
+    "offers": [
+      "Onsen hot spring bath",
+      "Traditional breakfast",
+      "Free tea ceremony",
+      "Garden access"
+    ],
+    "houseRules": [
+      "Shoes off indoors",
+      "Quiet hours 9 PM - 7 AM",
+      "No outside food"
+    ],
+    "safetyPolicy": [
+      "Smoke alarms installed",
+      "Emergency exit signs",
+      "Earthquake safety kit provided"
+    ],
+    "cancellationPolicy": "Free cancellation up to 10 days before check-in. No refund after.",
+    "maxGuest": "4",
+    "isFeatured": true
+  },
+  {
+    "title": "Luxury Villa with Private Pool",
+    "location": "Bali, Indonesia",
+    "price": 350,
+    "rating": 5.0,
+    "category": "Villa",
+    "images": [
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1327884395276083382/original/e2643354-5f1c-42dc-9f1b-6935b3938550.jpeg?im_w=1200",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1327884395276083382/original/be98b7dd-6fcc-4c19-9de0-f239b74fd82a.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1327884395276083382/original/76285f63-6156-4ef2-a504-961409e95915.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1327884395276083382/original/a6a2c3be-3942-4854-88e3-c821165f1d5e.jpeg?im_w=1200",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1327884395276083382/original/df7937b2-c095-4f7a-9e41-efd5079793ab.jpeg?im_w=720"
+    ],
+    "reviews": {
+      "Cleanliness": 5.0,
+      "Accuracy": 5.0,
+      "Check-in": 4.9,
+      "Communication": 5.0,
+      "Location": 4.8,
+      "Value": 4.7
+    },
+    "hostId": "host_010",
+    "summary": "3 king beds · 3 bathrooms · Private pool and garden",
+    "description": {
+      "aboutPlace": "This luxurious villa in Bali offers the ultimate tropical getaway for families and groups. With its private pool, lush gardens, and open-air living spaces, guests will experience a perfect balance of relaxation and modern comfort.",
+      "roomFacilities": "The villa features three bedrooms with king-size beds, three spacious bathrooms, an infinity pool, and a fully equipped kitchen. Outdoor dining and lounge areas make it perfect for entertaining or simply relaxing under the sun.",
+      "other": "The villa is located close to Seminyak’s vibrant nightlife and beaches. A private chef and daily housekeeping are available upon request to enhance your stay."
+    },
+    "availableDates": [{ "startDate": "2025-10-01", "endDate": "2025-10-15" }],
+    "offers": ["Private pool", "Daily housekeeping", "Airport pickup", "Wi-Fi"],
+    "houseRules": [
+      "No loud parties",
+      "No smoking indoors",
+      "Respect staff and property"
+    ],
+    "safetyPolicy": [
+      "Gated property",
+      "24/7 security",
+      "Pool safety fence available on request"
+    ],
+    "cancellationPolicy": "50% refund up to 14 days before check-in. No refund after.",
+    "maxGuest": "4",
+    "isFeatured": true
+  },
+  {
+    "title": "Cozy Apartment in Paris",
+    "location": "Paris, France",
+    "price": 120,
+    "rating": 4.8,
+    "category": "Apartment",
+    "images": [
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1012580984161557102/original/957664c0-4828-438b-b1f8-bc6936536c55.jpeg?im_w=1200",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1012580984161557102/original/de492e81-4d22-4011-8c6f-9a3ca58fba1d.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1012580984161557102/original/c1471610-9c60-4823-95c6-7cccb9e5a4c2.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1012580984161557102/original/d4213c90-0865-4f8d-8059-8509ab262d7b.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1012580984161557102/original/73a6baf4-e671-467f-91a5-cf7f26061fb9.jpeg?im_w=720"
+    ],
+    "reviews": {
+      "cleanliness": 4.7,
+      "accuracy": 4.8,
+      "checkIn": 4.9,
+      "communication": 5.0,
+      "location": 4.9,
+      "value": 4.6
+    },
+    "hostId": "host_101",
+    "summary": "1 double bed · Shared bathroom",
+    "description": {
+      "aboutPlace": "A charming Paris apartment in the heart of the city, perfect for couples and solo travelers.",
+      "roomFacilities": "Wi-Fi, TV, heating, small balcony",
+      "other": "Close to metro, cafes, and museums."
+    },
+    "availableDates": [{ "startDate": "2025-09-29", "endDate": "2025-10-10" }],
+    "offers": [
+      "Free Wi-Fi",
+      "Breakfast included",
+      "City guide",
+      "Kitchen access"
+    ],
+    "houseRules": "No smoking, No pets, Quiet hours after 10 PM",
+    "safetyPolicy": "Smoke detector, First aid kit available",
+    "cancellationPolicy": "Free cancellation up to 48 hours before check-in",
+    "maxGuest": "4",
+    "isFeatured": true
+  },
+  {
+    "title": "Beachfront Villa in Bali",
+    "location": "Bali, Indonesia",
+    "price": 250,
+    "rating": 4.9,
+    "category": "Villa",
+    "images": [
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTI2NDkzNDc1MTgyNjYzMzIyMw%3D%3D/original/b148e18f-bd28-4502-b41f-688a27a92fa0.jpeg?im_w=1200",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTI2NDkzNDc1MTgyNjYzMzIyMw%3D%3D/original/73eca27f-f5de-4442-9c7e-8f29f1e8816c.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTI2NDkzNDc1MTgyNjYzMzIyMw%3D%3D/original/55522358-ec04-457e-b6ac-2873ab55817a.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTI2NDkzNDc1MTgyNjYzMzIyMw%3D%3D/original/fc04da70-bf06-449e-95e0-cd4f1bc32edc.jpeg?im_w=1200",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTI2NDkzNDc1MTgyNjYzMzIyMw%3D%3D/original/926bea45-123e-442c-a339-51c41aba6aee.jpeg?im_w=720"
+    ],
+    "reviews": {
+      "cleanliness": 4.9,
+      "accuracy": 4.8,
+      "checkIn": 5.0,
+      "communication": 4.9,
+      "location": 5.0,
+      "value": 4.7
+    },
+    "hostId": "host_202",
+    "summary": "3 bedrooms · 2 bathrooms · Private pool",
+    "description": {
+      "aboutPlace": "A luxury villa with ocean view and direct beach access.",
+      "roomFacilities": "Private pool, kitchen, air conditioning, Wi-Fi",
+      "other": "Personal chef service available upon request."
+    },
+    "availableDates": [{ "startDate": "2025-09-30", "endDate": "2025-10-10" }],
+    "offers": [
+      "Private pool",
+      "Airport pickup",
+      "Daily cleaning",
+      "Breakfast included"
+    ],
+    "houseRules": "No parties, No pets",
+    "safetyPolicy": "24/7 security, Fire extinguisher, CCTV outside property",
+    "cancellationPolicy": "50% refund if cancelled at least 7 days before check-in",
+    "maxGuest": "4",
+    "isFeatured": true
+  },
+  {
+    "title": "Rustic Cabin in Banff",
+    "location": "Banff, Canada",
+    "price": 150,
+    "rating": 4.6,
+    "category": "Cabin",
+    "images": [
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1012580984161557102/original/957664c0-4828-438b-b1f8-bc6936536c55.jpeg?im_w=1200",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1012580984161557102/original/de492e81-4d22-4011-8c6f-9a3ca58fba1d.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1012580984161557102/original/c1471610-9c60-4823-95c6-7cccb9e5a4c2.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1012580984161557102/original/d4213c90-0865-4f8d-8059-8509ab262d7b.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1012580984161557102/original/73a6baf4-e671-467f-91a5-cf7f26061fb9.jpeg?im_w=720"
+    ],
+    "reviews": {
+      "cleanliness": 4.5,
+      "accuracy": 4.6,
+      "checkIn": 4.7,
+      "communication": 4.8,
+      "location": 4.9,
+      "value": 4.6
+    },
+    "hostId": "host_303",
+    "summary": "2 double beds · 1 bathroom · Fireplace",
+    "description": {
+      "aboutPlace": "A cozy log cabin surrounded by pine trees, ideal for nature lovers.",
+      "roomFacilities": "Fireplace, kitchen, Wi-Fi, outdoor seating",
+      "other": "Hiking trails start right outside the cabin."
+    },
+    "availableDates": [{ "startDate": "2025-09-29", "endDate": "2025-10-14" }],
+    "offers": ["Free parking", "Mountain view", "Firewood included"],
+    "houseRules": "No smoking indoors, Pets allowed with fee",
+    "safetyPolicy": "Carbon monoxide detector, Emergency contact info provided",
+    "cancellationPolicy": "Non-refundable once booked",
+    "maxGuest": "4",
+    "isFeatured": true
+  },
+  {
+    "title": "Modern Loft in New York City",
+    "location": "Manhattan, New York",
+    "price": 180,
+    "rating": 4.7,
+    "category": "Loft",
+    "images": [
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTI2NDkzNDc1MTgyNjYzMzIyMw%3D%3D/original/b148e18f-bd28-4502-b41f-688a27a92fa0.jpeg?im_w=1200",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTI2NDkzNDc1MTgyNjYzMzIyMw%3D%3D/original/73eca27f-f5de-4442-9c7e-8f29f1e8816c.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTI2NDkzNDc1MTgyNjYzMzIyMw%3D%3D/original/55522358-ec04-457e-b6ac-2873ab55817a.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTI2NDkzNDc1MTgyNjYzMzIyMw%3D%3D/original/fc04da70-bf06-449e-95e0-cd4f1bc32edc.jpeg?im_w=1200",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTI2NDkzNDc1MTgyNjYzMzIyMw%3D%3D/original/926bea45-123e-442c-a339-51c41aba6aee.jpeg?im_w=720"
+    ],
+    "reviews": {
+      "cleanliness": 4.6,
+      "accuracy": 4.7,
+      "checkIn": 4.8,
+      "communication": 4.9,
+      "location": 5.0,
+      "value": 4.5
+    },
+    "hostId": "host_404",
+    "summary": "1 queen bed · 1 bathroom · Open kitchen",
+    "description": {
+      "aboutPlace": "This loft is located in the vibrant heart of Manhattan, offering guests the true New York experience. With floor-to-ceiling windows, modern furniture, and urban design elements, the loft creates a unique blend of comfort and city living. Guests will be surrounded by iconic landmarks, trendy restaurants, and endless entertainment options within walking distance.",
+      "roomFacilities": "The loft features a queen-size bed, modern bathroom with rainfall shower, open-plan kitchen with high-end appliances, and a workspace suitable for business travelers. Guests also have access to Wi-Fi, air conditioning, a flat-screen TV, and stylish décor designed to make the stay both comfortable and visually appealing.",
+      "other": "Additional perks include proximity to subway stations, concierge services, and optional cleaning services for extended stays. The loft is situated in a secure building with 24/7 surveillance and easy access to grocery stores, fitness centers, and cultural attractions like Broadway shows and art galleries."
+    },
+    "availableDates": [{ "startDate": "2025-09-29", "endDate": "2025-10-15" }],
+    "offers": [
+      "High-speed Wi-Fi",
+      "Smart TV",
+      "Equipped kitchen",
+      "Workspace",
+      "City skyline view"
+    ],
+    "houseRules": "No smoking, No loud parties, Respect building quiet hours after 11 PM",
+    "safetyPolicy": "Equipped with fire alarm, carbon monoxide detector, and building security personnel",
+    "cancellationPolicy": "Full refund up to 5 days before check-in",
+    "maxGuest": "4",
+    "isFeatured": true
+  },
+  {
+    "title": "Traditional Ryokan in Kyoto",
+    "location": "Kyoto, Japan",
+    "price": 140,
+    "rating": 4.9,
+    "category": "Ryokan",
+    "images": [
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1012580984161557102/original/957664c0-4828-438b-b1f8-bc6936536c55.jpeg?im_w=1200",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1012580984161557102/original/de492e81-4d22-4011-8c6f-9a3ca58fba1d.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1012580984161557102/original/c1471610-9c60-4823-95c6-7cccb9e5a4c2.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1012580984161557102/original/d4213c90-0865-4f8d-8059-8509ab262d7b.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1012580984161557102/original/73a6baf4-e671-467f-91a5-cf7f26061fb9.jpeg?im_w=720"
+    ],
+    "reviews": {
+      "cleanliness": 5.0,
+      "accuracy": 4.9,
+      "checkIn": 4.9,
+      "communication": 5.0,
+      "location": 4.8,
+      "value": 4.9
+    },
+    "hostId": "host_505",
+    "summary": "1 futon bed · Shared bath · Tatami room",
+    "description": {
+      "aboutPlace": "Experience authentic Japanese culture in this traditional ryokan located in the heart of Kyoto. Guests will stay in a tatami-matted room with sliding shoji doors and futon bedding. The ryokan blends centuries-old architecture with modern amenities, offering a unique opportunity to experience Japanese heritage while enjoying comfort and convenience.",
+      "roomFacilities": "Each room comes with tatami flooring, futon bedding, a low dining table, and yukata robes for guests. The shared bath includes a traditional Japanese onsen-style tub. Additional amenities include complimentary tea, Wi-Fi access, air conditioning, and an option to request traditional Japanese breakfast and dinner served in-room.",
+      "other": "Guests can enjoy a peaceful garden view, access to meditation spaces, and guidance from the host on local temples and cultural practices. The ryokan is walking distance from iconic Kyoto temples, tea houses, and seasonal attractions like cherry blossom viewing and autumn leaf festivals."
+    },
+    "availableDates": [{ "startDate": "2025-10-01", "endDate": "2025-10-10" }],
+    "offers": [
+      "Traditional meals",
+      "Japanese tea set",
+      "Onsen bath access",
+      "Garden view"
+    ],
+    "houseRules": "Respect traditional customs, No shoes inside tatami areas, Quiet hours after 9 PM",
+    "safetyPolicy": "Fire extinguisher, earthquake emergency kit, and secure entry system",
+    "cancellationPolicy": "Free cancellation up to 7 days before check-in",
+    "maxGuest": "4",
+    "isFeatured": true
+  },
+  {
+    "title": "Seaside Cottage in Amalfi",
+    "location": "Kualalampur, malaysia",
+    "price": 200,
+    "rating": 4.8,
+    "category": "Cottage",
+    "images": [
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTI2NDkzNDc1MTgyNjYzMzIyMw%3D%3D/original/b148e18f-bd28-4502-b41f-688a27a92fa0.jpeg?im_w=1200",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTI2NDkzNDc1MTgyNjYzMzIyMw%3D%3D/original/73eca27f-f5de-4442-9c7e-8f29f1e8816c.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTI2NDkzNDc1MTgyNjYzMzIyMw%3D%3D/original/55522358-ec04-457e-b6ac-2873ab55817a.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTI2NDkzNDc1MTgyNjYzMzIyMw%3D%3D/original/fc04da70-bf06-449e-95e0-cd4f1bc32edc.jpeg?im_w=1200",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTI2NDkzNDc1MTgyNjYzMzIyMw%3D%3D/original/926bea45-123e-442c-a339-51c41aba6aee.jpeg?im_w=720"
+    ],
+    "reviews": {
+      "cleanliness": 4.8,
+      "accuracy": 4.7,
+      "checkIn": 4.9,
+      "communication": 4.9,
+      "location": 5.0,
+      "value": 4.6
+    },
+    "hostId": "host_606",
+    "summary": "2 bedrooms · 1 bathroom · Ocean view terrace",
+    "description": {
+      "aboutPlace": "This charming cottage offers breathtaking views of the Amalfi Coast, combining rustic Italian charm with seaside tranquility. Guests can enjoy morning coffee on the terrace while overlooking the Mediterranean Sea. The cottage is surrounded by lemon groves and is just a short walk away from local trattorias and coastal trails.",
+      "roomFacilities": "The cottage features two bedrooms with comfortable bedding, a modern bathroom, fully equipped kitchen, and a spacious terrace for outdoor dining. Guests have access to Wi-Fi, air conditioning, and laundry facilities. The décor blends rustic stone walls with coastal accents, creating a cozy and inviting atmosphere.",
+      "other": "Additional features include private beach access, guided boat tours, and cooking classes with local chefs. The cottage is ideal for families or couples looking for a romantic retreat while staying close to iconic Amalfi attractions like Positano and Ravello."
+    },
+    "availableDates": [{ "startDate": "2025-10-01", "endDate": "2025-10-16" }],
+    "offers": [
+      "Private terrace",
+      "Free parking",
+      "Beach access",
+      "Cooking class"
+    ],
+    "houseRules": "No smoking indoors, Respect neighbors, Pets allowed with prior notice",
+    "safetyPolicy": "Life vests for boating, fire extinguisher, and first aid kit provided",
+    "cancellationPolicy": "50% refund up to 14 days before check-in",
+    "maxGuest": "4",
+    "isFeatured": true
+  },
+  {
+    "title": "Rustic Cabin in the Forest",
+    "location": "Kualalampur, malaysia",
+    "price": 120,
+    "rating": 4.8,
+    "category": "Cabin",
+    "images": [
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1012580984161557102/original/957664c0-4828-438b-b1f8-bc6936536c55.jpeg?im_w=1200",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1012580984161557102/original/de492e81-4d22-4011-8c6f-9a3ca58fba1d.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1012580984161557102/original/c1471610-9c60-4823-95c6-7cccb9e5a4c2.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1012580984161557102/original/d4213c90-0865-4f8d-8059-8509ab262d7b.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1012580984161557102/original/73a6baf4-e671-467f-91a5-cf7f26061fb9.jpeg?im_w=720"
+    ],
+    "reviews": {
+      "Cleanliness": 4.7,
+      "Accuracy": 4.8,
+      "Check-in": 4.9,
+      "Communication": 5.0,
+      "Location": 4.9,
+      "Value": 4.6
+    },
+    "hostId": "host_007",
+    "summary": "1 queen bed · Private bathroom",
+    "description": {
+      "aboutPlace": "Nestled deep within Yosemite's lush pine forest, this rustic cabin offers a peaceful retreat surrounded by nature. The cabin is crafted with natural wood and stone elements, providing a cozy yet authentic wilderness experience for couples or solo travelers.",
+      "roomFacilities": "The cabin includes a spacious bedroom with a queen-size bed, a wood-burning stove, and large windows offering breathtaking views of the forest. Guests also enjoy a private bathroom, outdoor seating, and a small kitchenette.",
+      "other": "Perfect for hikers, adventurers, or those seeking a digital detox, the cabin comes with limited Wi-Fi but excellent access to trails. Wildlife such as deer and birds are commonly seen in the area."
+    },
+    "availableDates": [{ "startDate": "2025-10-01", "endDate": "2025-10-10" }],
+    "offers": [
+      "Hiking trails nearby",
+      "Firewood provided",
+      "Free parking",
+      "Outdoor dining space"
+    ],
+    "houseRules": [
+      "No smoking indoors",
+      "Quiet hours after 10 PM",
+      "Pets allowed on request"
+    ],
+    "safetyPolicy": [
+      "First aid kit available",
+      "Smoke detector installed",
+      "Fire extinguisher provided"
+    ],
+    "cancellationPolicy": "Free cancellation up to 7 days before check-in. 50% refund after that.",
+    "maxGuest": "4",
+    "isFeatured": true
+  },
+  {
+    "title": "Seaside Apartment with Balcony",
+    "location": "Nice, France",
+    "price": 200,
+    "rating": 4.6,
+    "category": "Apartment",
+    "images": [
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1327884395276083382/original/e2643354-5f1c-42dc-9f1b-6935b3938550.jpeg?im_w=1200",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1327884395276083382/original/be98b7dd-6fcc-4c19-9de0-f239b74fd82a.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1327884395276083382/original/76285f63-6156-4ef2-a504-961409e95915.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1327884395276083382/original/a6a2c3be-3942-4854-88e3-c821165f1d5e.jpeg?im_w=1200",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1327884395276083382/original/df7937b2-c095-4f7a-9e41-efd5079793ab.jpeg?im_w=720"
+    ],
+    "reviews": {
+      "Cleanliness": 4.8,
+      "Accuracy": 4.6,
+      "Check-in": 4.5,
+      "Communication": 4.7,
+      "Location": 4.9,
+      "Value": 4.5
+    },
+    "hostId": "host_008",
+    "summary": "2 double beds · 1 bathroom · Balcony with sea view",
+    "description": {
+      "aboutPlace": "This beautiful seaside apartment in Nice is designed to give guests the perfect Mediterranean experience. Located just steps from the beach, the apartment provides modern comfort with stunning balcony views of the French Riviera coastline.",
+      "roomFacilities": "Guests have access to two spacious bedrooms with double beds, a well-equipped kitchen, a clean bathroom, and a bright living area. The highlight is the balcony where you can enjoy morning coffee while watching the sunrise.",
+      "other": "The apartment is close to local markets, restaurants, and attractions. Public transport is easily accessible, making it ideal for exploring Nice and nearby Monaco or Cannes."
+    },
+    "availableDates": [{ "startDate": "2025-10-01", "endDate": "2025-10-09" }],
+    "offers": ["Beach access", "Wi-Fi", "Fully equipped kitchen", "Washer"],
+    "houseRules": ["No parties or events", "No smoking", "Respect neighbors"],
+    "safetyPolicy": [
+      "Smoke alarm installed",
+      "Fire extinguisher",
+      "Secure building entry"
+    ],
+    "cancellationPolicy": "Full refund within 48 hours of booking. After that, 50% refund until 5 days before check-in.",
+    "maxGuest": "4",
+    "isFeatured": true
+  },
+  {
+    "title": "Traditional Ryokan Experience",
+    "location": "Kualalampur, malaysia",
+    "price": 160,
+    "rating": 4.9,
+    "category": "Ryokan",
+    "images": [
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1231905705480318485/original/0537ba95-a632-49ca-8e24-bae16bbae183.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1231905705480318485/original/85310a3e-0f12-413b-8973-1007632f40b3.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1231905705480318485/original/c7462f87-f2ea-4e22-87d0-d0d71c165813.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1231905705480318485/original/99b9eadf-f278-4561-a35e-949f5ffdfc77.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1231905705480318485/original/a694afc3-46d0-4731-ba46-577c724644f8.jpeg?im_w=720"
+    ],
+    "reviews": {
+      "Cleanliness": 4.9,
+      "Accuracy": 4.8,
+      "Check-in": 4.9,
+      "Communication": 5.0,
+      "Location": 4.7,
+      "Value": 4.8
+    },
+    "hostId": "host_009",
+    "summary": "1 futon bed · Shared bathroom · Tatami flooring",
+    "description": {
+      "aboutPlace": "Experience authentic Japanese hospitality in this traditional ryokan in the heart of Kyoto. Guests can enjoy serene surroundings, tatami mat floors, sliding shoji doors, and Japanese tea served in-room upon arrival.",
+      "roomFacilities": "Each guest room features a futon bed, tatami flooring, and access to shared hot spring baths (onsen). Guests are provided with yukata robes and traditional Japanese meals upon request.",
+      "other": "The ryokan is close to Kyoto’s famous temples and gardens, making it ideal for travelers interested in Japanese culture and history. A tranquil courtyard garden is available for relaxation."
+    },
+    "availableDates": [{ "startDate": "2025-10-01", "endDate": "2025-10-17" }],
+    "offers": [
+      "Onsen hot spring bath",
+      "Traditional breakfast",
+      "Free tea ceremony",
+      "Garden access"
+    ],
+    "houseRules": [
+      "Shoes off indoors",
+      "Quiet hours 9 PM - 7 AM",
+      "No outside food"
+    ],
+    "safetyPolicy": [
+      "Smoke alarms installed",
+      "Emergency exit signs",
+      "Earthquake safety kit provided"
+    ],
+    "cancellationPolicy": "Free cancellation up to 10 days before check-in. No refund after.",
+    "maxGuest": "4",
+    "isFeatured": true
+  },
+  {
+    "title": "Luxury Villa with Private Pool",
+    "location": "Bali, Indonesia",
+    "price": 350,
+    "rating": 5.0,
+    "category": "Villa",
+    "images": [
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1327884395276083382/original/e2643354-5f1c-42dc-9f1b-6935b3938550.jpeg?im_w=1200",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1327884395276083382/original/be98b7dd-6fcc-4c19-9de0-f239b74fd82a.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1327884395276083382/original/76285f63-6156-4ef2-a504-961409e95915.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1327884395276083382/original/a6a2c3be-3942-4854-88e3-c821165f1d5e.jpeg?im_w=1200",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1327884395276083382/original/df7937b2-c095-4f7a-9e41-efd5079793ab.jpeg?im_w=720"
+    ],
+    "reviews": {
+      "Cleanliness": 5.0,
+      "Accuracy": 5.0,
+      "Check-in": 4.9,
+      "Communication": 5.0,
+      "Location": 4.8,
+      "Value": 4.7
+    },
+    "hostId": "host_010",
+    "summary": "3 king beds · 3 bathrooms · Private pool and garden",
+    "description": {
+      "aboutPlace": "This luxurious villa in Bali offers the ultimate tropical getaway for families and groups. With its private pool, lush gardens, and open-air living spaces, guests will experience a perfect balance of relaxation and modern comfort.",
+      "roomFacilities": "The villa features three bedrooms with king-size beds, three spacious bathrooms, an infinity pool, and a fully equipped kitchen. Outdoor dining and lounge areas make it perfect for entertaining or simply relaxing under the sun.",
+      "other": "The villa is located close to Seminyak’s vibrant nightlife and beaches. A private chef and daily housekeeping are available upon request to enhance your stay."
+    },
+    "availableDates": [{ "startDate": "2025-10-01", "endDate": "2025-10-15" }],
+    "offers": ["Private pool", "Daily housekeeping", "Airport pickup", "Wi-Fi"],
+    "houseRules": [
+      "No loud parties",
+      "No smoking indoors",
+      "Respect staff and property"
+    ],
+    "safetyPolicy": [
+      "Gated property",
+      "24/7 security",
+      "Pool safety fence available on request"
+    ],
+    "cancellationPolicy": "50% refund up to 14 days before check-in. No refund after.",
+    "maxGuest": "4",
+    "isFeatured": true
+  }
+]

@@ -6,7 +6,7 @@ const CommonLayout = ({ children }: { children: React.ReactNode }) => {
   return (
     <>
       <AirbnbNavbar></AirbnbNavbar>
-      {/* <Header></Header> */}
+      {/* <ScrollingNavbar></ScrollingNavbar> */}
       <main className="min-h-screen bg-[#FFFFFF]">{children}</main>
       <Inspiration></Inspiration>
       <Footer></Footer>

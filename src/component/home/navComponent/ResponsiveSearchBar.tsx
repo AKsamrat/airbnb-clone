@@ -6,7 +6,8 @@ export const ResponsiveSearchBar = ({
   active,
   onClick,
   children,
-}: any) => (
+}: // eslint-disable-next-line @typescript-eslint/no-explicit-any
+any) => (
   <div className="relative">
     <div
       className={`flex-1 px-2 py-2 cursor-pointer transition-all duration-200 `}

@@ -6,18 +6,25 @@ export const SearchSection = ({
   active,
   onClick,
   children,
-}: any) => (
+}: // eslint-disable-next-line @typescript-eslint/no-explicit-any
+any) => (
   <div className="relative">
     <div
-      className={`flex-1 px-10 py-2 cursor-pointer transition-all duration-200 ${
+      className={`flex-1 px-10 py-2 cursor-pointer transition-all duration-200  ${
         active
-          ? "bg-white shadow-lg rounded-full scale-105 "
+          ? "bg-white shadow-lg rounded-full scale-105  "
           : "hover:bg-gray-100  hover:rounded-full   hover:scale-105"
       } ${section !== "who" ? "  border-gray-300" : ""}`}
       onClick={onClick}
     >
       <div className="text-[16px] font-medium text-gray-900">{title}</div>
-      <div className="text-sm text-gray-400">{subtitle}</div>
+      <div
+        className={`text-sm text-gray-400 truncate max-w-[140px] ${
+          section === "where" ? " w-48" : section === "who" ? "w-28" : ""
+        }`}
+      >
+        {subtitle}
+      </div>
     </div>
     {active && children && (
       <div
