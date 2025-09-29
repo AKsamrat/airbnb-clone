@@ -12,6 +12,7 @@ import {
   Plus,
   Search,
 } from "lucide-react";
+import Image from "next/image";
 import Link from "next/link";
 import { usePathname, useRouter, useSearchParams } from "next/navigation";
 import { useEffect, useRef, useState } from "react";
@@ -194,8 +195,10 @@ const AirbnbNavbar = () => {
                       : "text-gray-700 border-transparent hover:text-gray-900"
                   }`}
                 >
-                  <img
-                    src="./house.png"
+                  <Image
+                    src="/house.png"
+                    height={40}
+                    width={40}
                     className="size-10 transition-transform duration-300 group-hover:scale-110"
                     alt="Homes"
                   />
@@ -206,15 +209,17 @@ const AirbnbNavbar = () => {
 
                 {/* Experiences */}
                 <Link
-                  href={"/experience"}
+                  href={"/experince"}
                   className={`group flex items-end space-x-2 font-medium relative border-b-2 pb-4 transition-all duration-300 ${
                     pathname === "/experiences"
                       ? "text-blue-600 border-blue-600"
                       : "text-gray-700 border-transparent hover:text-gray-900"
                   }`}
                 >
-                  <img
-                    src="./light-bulb.png"
+                  <Image
+                    src="/light-bulb.png"
+                    height={32}
+                    width={32}
                     className="size-8 transition-transform duration-300 group-hover:scale-110"
                     alt="Experiences"
                   />
@@ -235,8 +240,10 @@ const AirbnbNavbar = () => {
                       : "text-gray-700 border-transparent hover:text-gray-900"
                   }`}
                 >
-                  <img
-                    src="./desk-bell.png"
+                  <Image
+                    src="/desk-bell.png"
+                    height={32}
+                    width={32}
                     className="size-8 transition-transform duration-300 group-hover:scale-110"
                     alt="Services"
                   />
@@ -703,7 +710,8 @@ const AirbnbNavbar = () => {
       >
         <div className="flex justify-center lg:hidden space-x-6 mx-auto px-4 pt-9">
           {/* Homes */}
-          <button
+          <Link
+            href={"/"}
             className={`flex items-center space-x-2 font-medium relative pb-2 ${
               pathname === "/homes"
                 ? "text-black border-b-2 border-black"
@@ -711,22 +719,31 @@ const AirbnbNavbar = () => {
             }`}
           >
             {!scrolled && (
-              <img src="./house.png" className="size-6" alt="Homes" />
+              <Image
+                src="/house.png"
+                height={24}
+                width={24}
+                className="size-6"
+                alt="Homes"
+              />
             )}
             <span>Homes</span>
-          </button>
+          </Link>
 
           {/* Experiences */}
-          <button
+          <Link
+            href={"/experince"}
             className={`flex items-center space-x-2 font-medium relative pb-2 ${
-              pathname === "/experiences"
+              pathname === "/experience"
                 ? "text-black border-b-2 border-black"
                 : "text-gray-700 hover:text-gray-900"
             }`}
           >
             {!scrolled && (
-              <img
-                src="./light-bulb.png"
+              <Image
+                src="/light-bulb.png"
+                height={24}
+                width={24}
                 className="size-6"
                 alt="Experiences"
               />
@@ -737,10 +754,11 @@ const AirbnbNavbar = () => {
                 NEW
               </span>
             )}
-          </button>
+          </Link>
 
           {/* Services */}
-          <button
+          <Link
+            href={"/services"}
             className={`flex items-center space-x-2 font-medium relative pb-2 ${
               pathname === "/services"
                 ? "text-black border-b-2 border-black"
@@ -748,7 +766,13 @@ const AirbnbNavbar = () => {
             }`}
           >
             {!scrolled && (
-              <img src="./desk-bell.png" className="size-6" alt="Services" />
+              <Image
+                src="/desk-bell.png"
+                height={24}
+                width={24}
+                className="size-6"
+                alt="Services"
+              />
             )}
             <span>Services</span>
             {!scrolled && (
@@ -756,7 +780,7 @@ const AirbnbNavbar = () => {
                 NEW
               </span>
             )}
-          </button>
+          </Link>
         </div>
       </div>
     </>

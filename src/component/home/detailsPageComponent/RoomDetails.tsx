@@ -72,9 +72,9 @@ const RoomDetails = ({ roomData }: { roomData: Product }) => {
 
           {/* Featured Property Badge */}
           {data.isFeatured && (
-            <div className="flex items-center justify-between p-6 bg-gray-50 rounded-xl border">
-              <div className="flex items-center space-x-4 text-gray-800 font-semibold">
-                <div className="flex space-x-1">
+            <div className="flex flex-col lg:flex-row items-center justify-between p-6 bg-gray-50 rounded-xl border">
+              <div className="flex flex-col lg:flex-row items-center space-x-4 text-gray-800 font-semibold">
+                <div className="flex  space-x-1">
                   <Crown className="w-6 h-6 text-yellow-500" />
                   <div>
                     <p className="text-xl  text-gray-800">Featured</p>
@@ -163,11 +163,11 @@ const RoomDetails = ({ roomData }: { roomData: Product }) => {
               <h2 className="text-xl font-semibold mb-4">
                 Where you will sleep
               </h2>
-              <div className="border rounded-lg p-4 w-[420px]">
+              <div className="border rounded-lg p-4  max-w-[420px]">
                 <img
                   src={roomData.images[1]}
                   alt={roomData.title}
-                  className="w-[400px] h-[350px] object-cover transition-transform duration-300 group-hover:scale-105"
+                  className="w-[350px] lg:w-[400px] h-[350px] object-cover transition-transform duration-300 group-hover:scale-105"
                 />
                 <h3 className="font-medium mb-2">{data.category || "Room"}</h3>
                 <p className="text-gray-600 text-sm">{data.summary}</p>
@@ -219,7 +219,8 @@ const RoomDetails = ({ roomData }: { roomData: Product }) => {
           <div className="flex justify-start">
             <CalenderComponent
               roomData={roomData}
-              onDateSelect={(date: Date) => console.log("Selected:", date)}
+              // eslint-disable-next-line @typescript-eslint/no-explicit-any
+              onDateSelect={(date: any) => console.log("Selected:", date)}
             ></CalenderComponent>
           </div>
         </div>

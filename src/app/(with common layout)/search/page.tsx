@@ -7,6 +7,7 @@ import { useEffect, useState } from "react";
 
 export default function SearchPage() {
   const searchParams = useSearchParams();
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
   const [data, setData] = useState<any>(null);
   const [loading, setLoading] = useState(true);
 

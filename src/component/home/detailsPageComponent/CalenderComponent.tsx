@@ -205,7 +205,7 @@ const CalenderComponent: React.FC<AirbnbDatePickerProps> = ({
 
     const daysInMonth = getDaysInMonth(adjustedMonth, displayYear);
     const firstDay = getFirstDayOfMonth(adjustedMonth, displayYear);
-    const days: JSX.Element[] = [];
+    const days: React.ReactElement[] = [];
 
     // Empty cells for days before the first day of the month
     for (let i = 0; i < firstDay; i++) {
@@ -249,9 +249,9 @@ const CalenderComponent: React.FC<AirbnbDatePickerProps> = ({
 
         {/* Day headers */}
         <div className="grid grid-cols-7 gap-1 mb-2">
-          {dayAbbreviations.map((day: string) => (
+          {dayAbbreviations.map((day: string, index) => (
             <div
-              key={day}
+              key={index}
               className="w-11 h-8 flex items-center justify-center text-xs font-medium text-gray-500"
             >
               {day}
@@ -312,7 +312,7 @@ const CalenderComponent: React.FC<AirbnbDatePickerProps> = ({
             </div>
             <div className="text-right">
               <p className="text-sm text-gray-600">{nights} nights</p>
-              <p className="font-medium">${roomData?.price * nights}</p>
+              <p className="font-medium">${(roomData?.price || 0) * nights}</p>
             </div>
           </div>
         </div>

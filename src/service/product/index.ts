@@ -41,6 +41,7 @@ export const getAllProducts = async (
     if (!res.ok) throw new Error("Failed to fetch rooms");
 
     return res.json();
+    // eslint-disable-next-line @typescript-eslint/no-explicit-any
   } catch (error: any) {
     return { error: error.message };
   }

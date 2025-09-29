@@ -7,6 +7,7 @@ import FeaturedCard from "./card/FeaturedCard";
 
 export default function PopularNearby() {
   const location = useUserLocation();
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
   const [popularHomes, setPopularHomes] = useState<any[]>([]);
   const [loading, setLoading] = useState(true);
   const scrollContainerRef = useRef<HTMLDivElement>(null);
