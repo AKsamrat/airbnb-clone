@@ -1,8 +1,34 @@
+"use client";
 import { Product } from "@/types/imdex";
 import { Car, Crown, Flag, Shield, Star } from "lucide-react";
+import { useState } from "react";
 import CalenderComponent from "./CalenderComponent";
+import CheckinOutSection from "./CheckInOutSection";
+interface SearchData {
+  destination: string;
+  checkIn: Date | null;
+  checkOut: Date | null;
+  guests: {
+    adults: number;
+    children: number;
+    infants: number;
+  };
+}
 
 const RoomDetails = ({ roomData }: { roomData: Product }) => {
+  const [searchData, setSearchData] = useState<SearchData>({
+    destination: "",
+    checkIn: null,
+    checkOut: null,
+    guests: { adults: 1, children: 0, infants: 0 },
+  });
+  const totalGuests = searchData.guests.adults + searchData.guests.children;
+  const currentDate = new Date();
+  const nextMonth = new Date(
+    currentDate.getFullYear(),
+    currentDate.getMonth() + 1
+  );
+
   // Default amenities data (will be shared locally as mentioned)
   const defaultAmenities = [
     {
@@ -243,19 +269,14 @@ const RoomDetails = ({ roomData }: { roomData: Product }) => {
               </div>
 
               {/* Check-in/out dates */}
-              <div className="grid grid-cols-2 border border-gray-300 rounded-lg mb-4">
-                <div className="p-3 border-r border-gray-300">
-                  <div className="text-xs font-semibold text-gray-900 mb-1">
-                    CHECK-IN
-                  </div>
-                  <div className="text-sm">9/28/2025</div>
-                </div>
-                <div className="p-3">
-                  <div className="text-xs font-semibold text-gray-900 mb-1">
-                    CHECKOUT
-                  </div>
-                  <div className="text-sm">10/4/2025</div>
-                </div>
+              <div>
+                <CheckinOutSection
+                  roomData={roomData}
+                  onDateChange={(checkIn, checkOut) => {
+                    console.log("Check-in:", checkIn);
+                    console.log("Check-out:", checkOut);
+                  }}
+                />
               </div>
 
               {/* Guests selector */}

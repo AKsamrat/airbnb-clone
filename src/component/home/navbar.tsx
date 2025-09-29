@@ -342,14 +342,14 @@ const AirbnbNavbar = () => {
           {/* Search Bar - Normal Position */}
 
           {scrolled ? (
-            <div className="hidden lg:flex   ">
-              <div className={`fixed top-5 left-[550px] transform  z-60 `}>
+            <div className="hidden lg:flex">
+              <div className={`fixed top-5 left-1/2 -translate-x-1/2 z-60`}>
                 <button
                   onClick={handleSearchClick}
-                  className=" flex items-center space-x-3 bg-white border border-gray-300 rounded-full px-5 py-2 shadow-lg hover:shadow-xl  transition-transform duration-1900"
+                  className="flex items-center space-x-3 bg-white border border-gray-300 rounded-full px-3 py-2 shadow-lg hover:shadow-xl transition-transform duration-300"
                 >
                   <div className="flex items-center space-x-1 text-sm">
-                    <span className="font-semibold  text-gray-700">
+                    <span className="font-semibold text-gray-700">
                       {searchData.destination || "Anywhere"}
                     </span>
                     <span className="text-gray-500 px-2">|</span>
@@ -367,7 +367,7 @@ const AirbnbNavbar = () => {
                         : "Add guests"}
                     </span>
                     <div className="bg-[#FF5A5F] p-2 rounded-full ml-2">
-                      <Search size={16} className=" text-white " />
+                      <Search size={16} className="text-white" />
                     </div>
                   </div>
                 </button>
