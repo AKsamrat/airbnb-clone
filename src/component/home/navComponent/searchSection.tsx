@@ -19,7 +19,7 @@ any) => (
     >
       <div className="text-[16px] font-medium text-gray-900">{title}</div>
       <div
-        className={`text-sm text-gray-400 truncate max-w-[140px] ${
+        className={`text-[14px] text-gray-500 truncate max-w-[140px] ${
           section === "where" ? " w-48" : section === "who" ? "w-28" : ""
         }`}
       >

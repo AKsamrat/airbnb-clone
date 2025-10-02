@@ -45,7 +45,7 @@ export default function PopularNearby() {
   };
 
   return (
-    <section className="mt-44 max-w-8xl mx-auto px-16">
+    <section className="mt-44 max-w-8xl mx-auto px-6 lg:px-16">
       {/* Title + Arrows Row */}
       <div className="flex items-center justify-between mb-6">
         {location ? (

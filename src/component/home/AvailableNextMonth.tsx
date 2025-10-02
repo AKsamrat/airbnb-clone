@@ -61,7 +61,7 @@ export default function AvailableNextMonth() {
   };
 
   return (
-    <section className="mt-12 max-w-8xl mx-auto px-16">
+    <section className="mt-12 max-w-8xl mx-auto px-6 lg:px-16">
       {/* Title + Arrows Row */}
       <div className="flex items-center justify-between mb-6">
         <h2 className="text-xl font-semibold flex items-center">

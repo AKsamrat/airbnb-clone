@@ -69,7 +69,7 @@ const Inspiration = () => {
     : apartmentLinks.slice(0, CITIES_TO_SHOW_INITIALLY);
   return (
     <div className="bg-gray-50 text-sm text-gray-800">
-      <div className="max-w-[1360px] mx-auto pt-12 pb-8 px-2">
+      <div className="max-w-8xl mx-auto pt-12 pb-8 px-16">
         {/* --- Inspiration Section --- */}
         <section>
           <h2 className="text-lg font-semibold">
@@ -77,10 +77,13 @@ const Inspiration = () => {
           </h2>
           <div className="mt-4 border-b border-gray-300">
             {/* UPDATED: Tabs are now buttons to control state */}
-            <nav className="-mb-px flex space-x-6" aria-label="Tabs">
+            <nav
+              className="-mb-px flex space-x-6 overflow-x-auto scrollbar-hide"
+              aria-label="Tabs"
+            >
               <button
                 onClick={() => setActiveTab("inspiration")}
-                className={`whitespace-nowrap pb-3 px-1 border-b-2 ${
+                className={`whitespace-nowrap pb-3 px-1 border-b-2 flex-shrink-0 ${
                   activeTab === "inspiration"
                     ? "border-black font-semibold text-black"
                     : "border-transparent text-gray-500 hover:text-black"
@@ -90,7 +93,7 @@ const Inspiration = () => {
               </button>
               <button
                 onClick={() => setActiveTab("apartments")}
-                className={`whitespace-nowrap pb-3 px-1 border-b-2 ${
+                className={`whitespace-nowrap pb-3 px-1 border-b-2 flex-shrink-0 ${
                   activeTab === "apartments"
                     ? "border-black font-semibold text-black"
                     : "border-transparent text-gray-500 hover:text-black"
